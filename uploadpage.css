@@ -1,7 +1,7 @@
 /* General Page Styling */
 body {
     font-family: Arial, sans-serif;
-    background-color: #d5e9f6;
+    background-color: #6B8EAD;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -9,7 +9,7 @@ body {
 
 header {
     padding: 20px;
-    background-color: #6B8EAD;
+    background-color: #d5e9f6;
     color: white;
     font-size: 24px;
 }
