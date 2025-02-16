@@ -6,20 +6,17 @@
     <title>Upload a Document</title>
     <link rel="stylesheet" href="uploadpage.css"> 
 </head>
-
 <body>
     <header style="text-align: center; padding: 20px;">
         <img src="lexEaselogo.png" alt="Lex Ease" width="200">
     </header>
-
     <section style="text-align: center; margin-top: 20px;">
         <h2>Upload a Document</h2>
         <p class="instruction-text">Select a font from the dropdown, upload your file, and click submit to convert your document!</p>
     </section>
-
     <section style="display: flex; justify-content: center; flex-direction: column; align-items: center; margin-top: 50px;">
         <form action="/submit" method="POST" enctype="multipart/form-data">
-            <!-- font Selection Dropdown -->
+            <!-- Font Selection Dropdown -->
             <label for="font-select">Select Font:</label>
             <select id="font-select" name="font">
                 <option value="Arial">Arial</option>
@@ -27,24 +24,18 @@
                 <option value="Verdana">Verdana</option>
                 <option value="Open Sans">Open Sans</option>
                 <option value="Century Gothic">Century Gothic</option>
-                
             </select>
             <br><br>
-
-            <!-- file upload -->
+            <!-- File Upload -->
             <label for="file-upload">Upload a Document:</label>
             <input type="file" id="file-upload" name="pdf-file" accept=".pdf" required>
             <br><br>
-
-            <!-- submit button -->
+            <!-- Submit Button -->
             <button type="submit">Submit</button>
         </form>
-
-        <!-- status message -->
+        <!-- Status Message -->
         <p id="statusMessage" style="margin-top: 10px; color: green;"></p>
     </section>
-
     <script src="uploadpage.js"></script>
-    
 </body>
 </html>
