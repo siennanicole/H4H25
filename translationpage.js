@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-   const text = "hello how are you?";
+   const text = document.getElementById("wordInput").value;
    const convertBtn = document.getElementById("textToSpeech");
 
    convertBtn.addEventListener('click', function () {
