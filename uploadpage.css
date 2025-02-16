@@ -7,6 +7,11 @@ body {
     text-align: center;
 }
 
+header img {
+    width: 350px; /* Increase from 200px */
+    height: auto; /* Maintain aspect ratio */
+}
+
 header {
     padding: 20px;
     background-color: #d5e9f6;
@@ -14,6 +19,12 @@ header {
     font-size: 24px;
 }
 
+instruction-text {
+    font-size: 20px; /* Bigger text */
+    font-weight: bold; /* Make it stand out */
+    color: #333;
+    margin-top: 10px;
+}
 h2 {
     color: #333;
 }
