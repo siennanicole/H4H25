@@ -76,3 +76,45 @@ async function convertTextToSpeech() {
 document.getElementById("newDocumentButton").addEventListener("click", function () {
   window.location.href = "uploadpage.html"; 
 });
+
+document.getElementById('textToSpeech').addEventListener('click', function() {
+  const fileInput = document.getElementById('output.mp3');
+  const file = fileInput.files[0];  // Get the selected file
+
+
+  if (!file) {
+    alert("Please select an MP3 file first.");
+    return;
+  }
+
+
+  const reader = new FileReader();
+
+
+  reader.onloadend = function() {
+    // Extract the Base64 part from the Data URL (after 'base64,')
+    const base64Data = reader.result.split(',')[1];
+    document.getElementById('base64Output').value = base64Data;  // Display Base64 string
+  };
+
+
+  reader.readAsDataURL(file);
+});
+
+
+document.addEventListener("DOMContentLoaded", function () {
+  // Get color input elements
+  const bgColorInput = document.getElementById("bgColor");
+  const textColorInput = document.getElementById("textColor");
+  const textContainer = document.getElementById("dyslexic_friendly_text");
+
+  // Function to update background color
+  bgColorInput.addEventListener("input", function () {
+      textContainer.style.backgroundColor = bgColorInput.value;
+  });
+
+  // Function to update text color
+  textColorInput.addEventListener("input", function () {
+      textContainer.style.color = textColorInput.value;
+  });
+});
