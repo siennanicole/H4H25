@@ -82,17 +82,18 @@ main {
 
 /* Sidebar Styling */
 #sidebar {
-    width: 180px; /* Reduced width to prevent overlap */
+    width: 180px; /* Adjust width if needed */
     background-color: #fff;
-    padding: 15px; /* Slightly reduced padding for better spacing */
+    padding: 15px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     position: fixed;
-    top: 80px;
-    right: 40px; /* Moved slightly left to prevent overlap */
+    top: 50%; /* Moves it to 50% of the viewport height */
+    right: 40px; /* Keeps it on the right side */
+    transform: translateY(-50%); /* Centers it vertically */
     display: flex;
     flex-direction: column;
-    gap: 15px; /* Reduced gap for a more compact layout */
+    gap: 15px;
 }
 
 .controls {
