@@ -51,12 +51,12 @@ main {
 #dyslexic_friendly_text {
     flex-grow: 1;
     background: white;
-    padding: 100px;
-    margin-right: 100px;
+    /* padding: 100px; */
+    margin-right: 300px;
     border-radius: 8px;
     border: 1px solid #ccc;
-    height: 400px;
-    width: 100px;
+    height: 500px;
+    /* width: 100px; */
     overflow-y: auto;
     font-family: 'OpenDyslexic', Arial, sans-serif;
     font-size: 18px;
