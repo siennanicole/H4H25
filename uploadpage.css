@@ -6,6 +6,13 @@ body {
     padding: 0;
     text-align: center;
 }
+.platform-title {
+    font-size: 18px; /* Smaller size for slogan effect */
+    font-style: italic; /* Italic for slogan appearance */
+    font-weight: normal; /* Lighter font weight */
+    color: #444; /* Slightly softer color */
+    margin-bottom: 5px; /* Reduce spacing below */
+}
 
 header img {
     width: 350px; /* Increase from 200px */
