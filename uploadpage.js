@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const file = fileInput.files[0]; 
 
     if (!file) {
-      alert("Please upload a PDF file.");
+      alert("Please upload a document file.");
       return;
     }
 
@@ -48,4 +48,3 @@ document.addEventListener("DOMContentLoaded", function() {
     };
   });
 });
-
