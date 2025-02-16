@@ -62,20 +62,13 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // Function to send selected text to backend for Text-to-Speech
-async function convertTextToSpeech(text) {
-  try {
-    const response = await fetch("https://h4h.pythonanywhere.com/text-to-speech", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ text }),
-    });
-
-    const audioBlob = await response.blob();
-    const audioUrl = URL.createObjectURL(audioBlob);
-    const audio = new Audio(audioUrl);
-    audio.play();
-  } catch (error) {
-    console.error("Error with Text-to-Speech:", error);
-  }
+async function convertTextToSpeech() {
+  
+    let play = document.getElementById("play");
+      function playMusic(){
+        let audio = Audio("output.mp3");
+        audio.play()
+      }
+     play.addEventListener("click",playMusic);
 }
 });
