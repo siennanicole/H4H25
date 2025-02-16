@@ -1,1 +1,26 @@
+Background Color {
+    padding: 20px;
+    background-color: #B6D0E2;
+    color: white;
+    font-size: 24px;
+}
+logo-container {
+  position: absolute; /* Positions the logo relative to the page */
+top: 10px; /* Ajusts distance from the top */
+left: 10px; /* Adjusts distance from the left */
+}
+.logo {
+width: 80px; /* Adjust this to make the logo smaller */
+height: auto; /* Maintains aspect ratio */
+}
 
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 80px; /* Adjust the size */
+    height: auto;
+}
