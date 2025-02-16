@@ -1,0 +1,3510 @@
+{
+  "filename": "winnie_the_pooh.pdf",
+  "page_data": [
+    {
+      "page": 0,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/9fa95c5e-4f4e-408b-ae28-282cc95c4caa-1.jpeg?ik-s=f9f205b432bd2a81bb6226f3c3465cf59aeef344&ik-t=1739683945",
+      "size": {
+        "width": 2550,
+        "height": 3300
+      },
+      "words": [
+        {
+          "text": "At",
+          "xmin": 251,
+          "ymin": 431,
+          "xmax": 310,
+          "ymax": 468
+        },
+        {
+          "text": "the",
+          "xmin": 329,
+          "ymin": 428,
+          "xmax": 416,
+          "ymax": 465
+        },
+        {
+          "text": "Zoo",
+          "xmin": 438,
+          "ymin": 430,
+          "xmax": 535,
+          "ymax": 468
+        },
+        {
+          "text": "There",
+          "xmin": 250,
+          "ymin": 553,
+          "xmax": 390,
+          "ymax": 591
+        },
+        {
+          "text": "are",
+          "xmin": 414,
+          "ymin": 563,
+          "xmax": 489,
+          "ymax": 591
+        },
+        {
+          "text": "lions",
+          "xmin": 513,
+          "ymin": 553,
+          "xmax": 623,
+          "ymax": 593
+        },
+        {
+          "text": "and",
+          "xmin": 644,
+          "ymin": 553,
+          "xmax": 730,
+          "ymax": 591
+        },
+        {
+          "text": "roaring",
+          "xmin": 756,
+          "ymin": 556,
+          "xmax": 927,
+          "ymax": 602
+        },
+        {
+          "text": "and",
+          "xmin": 252,
+          "ymin": 603,
+          "xmax": 336,
+          "ymax": 643
+        },
+        {
+          "text": "enormous",
+          "xmin": 362,
+          "ymin": 613,
+          "xmax": 607,
+          "ymax": 643
+        },
+        {
+          "text": "camels",
+          "xmin": 629,
+          "ymin": 604,
+          "xmax": 798,
+          "ymax": 643
+        },
+        {
+          "text": "and",
+          "xmin": 821,
+          "ymin": 596,
+          "xmax": 906,
+          "ymax": 643
+        },
+        {
+          "text": "things",
+          "xmin": 920,
+          "ymin": 590,
+          "xmax": 1086,
+          "ymax": 655
+        },
+        {
+          "text": "tigers",
+          "xmin": 950,
+          "ymin": 555,
+          "xmax": 1089,
+          "ymax": 602
+        },
+        {
+          "text": "|",
+          "xmin": 1096,
+          "ymin": 585,
+          "xmax": 1099,
+          "ymax": 594
+        },
+        {
+          "text": "|",
+          "xmin": 1088,
+          "ymin": 634,
+          "xmax": 1092,
+          "ymax": 643
+        },
+        {
+          "text": "There",
+          "xmin": 250,
+          "ymin": 653,
+          "xmax": 390,
+          "ymax": 692
+        },
+        {
+          "text": "are",
+          "xmin": 413,
+          "ymin": 663,
+          "xmax": 490,
+          "ymax": 692
+        },
+        {
+          "text": "biffalo-buffalo-bi",
+          "xmin": 513,
+          "ymin": 653,
+          "xmax": 919,
+          "ymax": 692
+        },
+        {
+          "text": "isons",
+          "xmin": 916,
+          "ymin": 648,
+          "xmax": 1036,
+          "ymax": 693
+        },
+        {
+          "text": "|",
+          "xmin": 1044,
+          "ymin": 684,
+          "xmax": 1049,
+          "ymax": 696
+        },
+        {
+          "text": "and",
+          "xmin": 252,
+          "ymin": 704,
+          "xmax": 338,
+          "ymax": 743
+        },
+        {
+          "text": "a",
+          "xmin": 362,
+          "ymin": 713,
+          "xmax": 386,
+          "ymax": 742
+        },
+        {
+          "text": "There'",
+          "xmin": 250,
+          "ymin": 742,
+          "xmax": 402,
+          "ymax": 793
+        },
+        {
+          "text": "great",
+          "xmin": 397,
+          "ymin": 693,
+          "xmax": 539,
+          "ymax": 754
+        },
+        {
+          "text": "big",
+          "xmin": 561,
+          "ymin": 703,
+          "xmax": 628,
+          "ymax": 750
+        },
+        {
+          "text": "bear",
+          "xmin": 655,
+          "ymin": 704,
+          "xmax": 763,
+          "ymax": 743
+        },
+        {
+          "text": "wi",
+          "xmin": 783,
+          "ymin": 706,
+          "xmax": 826,
+          "ymax": 742
+        },
+        {
+          "text": "with",
+          "xmin": 817,
+          "ymin": 703,
+          "xmax": 883,
+          "ymax": 741
+        },
+        {
+          "text": "wi",
+          "xmin": 906,
+          "ymin": 706,
+          "xmax": 950,
+          "ymax": 742
+        },
+        {
+          "text": "'s",
+          "xmin": 399,
+          "ymin": 752,
+          "xmax": 429,
+          "ymax": 790
+        },
+        {
+          "text": "sort",
+          "xmin": 500,
+          "ymin": 756,
+          "xmax": 594,
+          "ymax": 793
+        },
+        {
+          "text": "of",
+          "xmin": 607,
+          "ymin": 745,
+          "xmax": 662,
+          "ymax": 792
+        },
+        {
+          "text": "ings.",
+          "xmin": 949,
+          "ymin": 701,
+          "xmax": 1053,
+          "ymax": 749
+        },
+        {
+          "text": "a",
+          "xmin": 452,
+          "ymin": 763,
+          "xmax": 473,
+          "ymax": 790
+        },
+        {
+          "text": "a",
+          "xmin": 680,
+          "ymin": 763,
+          "xmax": 702,
+          "ymax": 790
+        },
+        {
+          "text": "tiny",
+          "xmin": 726,
+          "ymin": 755,
+          "xmax": 818,
+          "ymax": 802
+        },
+        {
+          "text": "potamus",
+          "xmin": 842,
+          "ymin": 745,
+          "xmax": 1052,
+          "ymax": 798
+        },
+        {
+          "text": "|",
+          "xmin": 1060,
+          "ymin": 785,
+          "xmax": 1063,
+          "ymax": 795
+        },
+        {
+          "text": "and",
+          "xmin": 252,
+          "ymin": 803,
+          "xmax": 336,
+          "ymax": 842
+        },
+        {
+          "text": "a",
+          "xmin": 362,
+          "ymin": 813,
+          "xmax": 383,
+          "ymax": 839
+        },
+        {
+          "text": "tiny",
+          "xmin": 409,
+          "ymin": 805,
+          "xmax": 501,
+          "ymax": 850
+        },
+        {
+          "text": "nosserus",
+          "xmin": 524,
+          "ymin": 813,
+          "xmax": 738,
+          "ymax": 843
+        },
+        {
+          "text": "too",
+          "xmin": 761,
+          "ymin": 799,
+          "xmax": 836,
+          "ymax": 842
+        },
+        {
+          "text": "|",
+          "xmin": 861,
+          "ymin": 823,
+          "xmax": 870,
+          "ymax": 826
+        },
+        {
+          "text": "But",
+          "xmin": 254,
+          "ymin": 855,
+          "xmax": 335,
+          "ymax": 893
+        },
+        {
+          "text": "T",
+          "xmin": 355,
+          "ymin": 855,
+          "xmax": 368,
+          "ymax": 887
+        },
+        {
+          "text": "gave",
+          "xmin": 394,
+          "ymin": 845,
+          "xmax": 510,
+          "ymax": 902
+        },
+        {
+          "text": "buns",
+          "xmin": 534,
+          "ymin": 853,
+          "xmax": 648,
+          "ymax": 893
+        },
+        {
+          "text": "to",
+          "xmin": 669,
+          "ymin": 856,
+          "xmax": 713,
+          "ymax": 893
+        },
+        {
+          "text": "the",
+          "xmin": 736,
+          "ymin": 853,
+          "xmax": 813,
+          "ymax": 893
+        },
+        {
+          "text": "elephant",
+          "xmin": 836,
+          "ymin": 853,
+          "xmax": 1050,
+          "ymax": 901
+        },
+        {
+          "text": "when",
+          "xmin": 252,
+          "ymin": 904,
+          "xmax": 379,
+          "ymax": 942
+        },
+        {
+          "text": "T",
+          "xmin": 404,
+          "ymin": 902,
+          "xmax": 419,
+          "ymax": 937
+        },
+        {
+          "text": "went",
+          "xmin": 442,
+          "ymin": 906,
+          "xmax": 561,
+          "ymax": 942
+        },
+        {
+          "text": "down",
+          "xmin": 582,
+          "ymin": 904,
+          "xmax": 710,
+          "ymax": 942
+        },
+        {
+          "text": "to",
+          "xmin": 732,
+          "ymin": 906,
+          "xmax": 777,
+          "ymax": 942
+        },
+        {
+          "text": "the",
+          "xmin": 799,
+          "ymin": 903,
+          "xmax": 878,
+          "ymax": 942
+        },
+        {
+          "text": "Zoo",
+          "xmin": 899,
+          "ymin": 899,
+          "xmax": 989,
+          "ymax": 942
+        },
+        {
+          "text": "There",
+          "xmin": 267,
+          "ymin": 1004,
+          "xmax": 408,
+          "ymax": 1043
+        },
+        {
+          "text": "are",
+          "xmin": 430,
+          "ymin": 1013,
+          "xmax": 508,
+          "ymax": 1043
+        },
+        {
+          "text": "badgers",
+          "xmin": 531,
+          "ymin": 1004,
+          "xmax": 725,
+          "ymax": 1050
+        },
+        {
+          "text": "and",
+          "xmin": 747,
+          "ymin": 1004,
+          "xmax": 831,
+          "ymax": 1043
+        },
+        {
+          "text": "Super-in-tendent'",
+          "xmin": 410,
+          "ymin": 1046,
+          "xmax": 849,
+          "ymax": 1099
+        },
+        {
+          "text": "bidgers",
+          "xmin": 859,
+          "ymin": 1004,
+          "xmax": 1037,
+          "ymax": 1052
+        },
+        {
+          "text": "and",
+          "xmin": 1059,
+          "ymin": 1004,
+          "xmax": 1145,
+          "ymax": 1043
+        },
+        {
+          "text": "bodgers",
+          "xmin": 1171,
+          "ymin": 1004,
+          "xmax": 1365,
+          "ymax": 1048
+        },
+        {
+          "text": "|",
+          "xmin": 1373,
+          "ymin": 1034,
+          "xmax": 1378,
+          "ymax": 1045
+        },
+        {
+          "text": "and",
+          "xmin": 252,
+          "ymin": 1053,
+          "xmax": 338,
+          "ymax": 1092
+        },
+        {
+          "text": "a",
+          "xmin": 362,
+          "ymin": 1063,
+          "xmax": 383,
+          "ymax": 1089
+        },
+        {
+          "text": "'s",
+          "xmin": 844,
+          "ymin": 1053,
+          "xmax": 874,
+          "ymax": 1090
+        },
+        {
+          "text": "House",
+          "xmin": 901,
+          "ymin": 1048,
+          "xmax": 1050,
+          "ymax": 1093
+        },
+        {
+          "text": "|",
+          "xmin": 1057,
+          "ymin": 1084,
+          "xmax": 1061,
+          "ymax": 1094
+        },
+        {
+          "text": "There",
+          "xmin": 250,
+          "ymin": 1093,
+          "xmax": 391,
+          "ymax": 1143
+        },
+        {
+          "text": "are",
+          "xmin": 413,
+          "ymin": 1102,
+          "xmax": 487,
+          "ymax": 1142
+        },
+        {
+          "text": "masses",
+          "xmin": 512,
+          "ymin": 1113,
+          "xmax": 694,
+          "ymax": 1143
+        },
+        {
+          "text": "of",
+          "xmin": 715,
+          "ymin": 1103,
+          "xmax": 763,
+          "ymax": 1142
+        },
+        {
+          "text": "goats",
+          "xmin": 781,
+          "ymin": 1106,
+          "xmax": 914,
+          "ymax": 1152
+        },
+        {
+          "text": "|",
+          "xmin": 921,
+          "ymin": 1134,
+          "xmax": 928,
+          "ymax": 1144
+        },
+        {
+          "text": "and",
+          "xmin": 953,
+          "ymin": 1103,
+          "xmax": 1039,
+          "ymax": 1143
+        },
+        {
+          "text": "a",
+          "xmin": 1064,
+          "ymin": 1114,
+          "xmax": 1084,
+          "ymax": 1141
+        },
+        {
+          "text": "Polar",
+          "xmin": 1113,
+          "ymin": 1103,
+          "xmax": 1234,
+          "ymax": 1143
+        },
+        {
+          "text": "|",
+          "xmin": 1239,
+          "ymin": 1134,
+          "xmax": 1244,
+          "ymax": 1146
+        },
+        {
+          "text": "and",
+          "xmin": 252,
+          "ymin": 1153,
+          "xmax": 336,
+          "ymax": 1192
+        },
+        {
+          "text": "different",
+          "xmin": 362,
+          "ymin": 1153,
+          "xmax": 572,
+          "ymax": 1192
+        },
+        {
+          "text": "kinds",
+          "xmin": 594,
+          "ymin": 1153,
+          "xmax": 720,
+          "ymax": 1192
+        },
+        {
+          "text": "of",
+          "xmin": 741,
+          "ymin": 1146,
+          "xmax": 793,
+          "ymax": 1193
+        },
+        {
+          "text": "mouse",
+          "xmin": 808,
+          "ymin": 1149,
+          "xmax": 968,
+          "ymax": 1193
+        },
+        {
+          "text": "And",
+          "xmin": 251,
+          "ymin": 1204,
+          "xmax": 341,
+          "ymax": 1241
+        },
+        {
+          "text": "thi",
+          "xmin": 404,
+          "ymin": 1204,
+          "xmax": 464,
+          "ymax": 1242
+        },
+        {
+          "text": "ink",
+          "xmin": 457,
+          "ymin": 1193,
+          "xmax": 527,
+          "ymax": 1241
+        },
+        {
+          "text": "|",
+          "xmin": 976,
+          "ymin": 1184,
+          "xmax": 982,
+          "ymax": 1196
+        },
+        {
+          "text": "T",
+          "xmin": 367,
+          "ymin": 1205,
+          "xmax": 379,
+          "ymax": 1237
+        },
+        {
+          "text": "there's",
+          "xmin": 548,
+          "ymin": 1204,
+          "xmax": 716,
+          "ymax": 1243
+        },
+        {
+          "text": "a",
+          "xmin": 738,
+          "ymin": 1213,
+          "xmax": 759,
+          "ymax": 1241
+        },
+        {
+          "text": "sort",
+          "xmin": 785,
+          "ymin": 1207,
+          "xmax": 880,
+          "ymax": 1243
+        },
+        {
+          "text": "of",
+          "xmin": 900,
+          "ymin": 1203,
+          "xmax": 947,
+          "ymax": 1241
+        },
+        {
+          "text": "a",
+          "xmin": 965,
+          "ymin": 1200,
+          "xmax": 989,
+          "ymax": 1243
+        },
+        {
+          "text": "somethi",
+          "xmin": 1013,
+          "ymin": 1204,
+          "xmax": 1203,
+          "ymax": 1243
+        },
+        {
+          "text": "ing",
+          "xmin": 1201,
+          "ymin": 1205,
+          "xmax": 1267,
+          "ymax": 1249
+        },
+        {
+          "text": "which",
+          "xmin": 252,
+          "ymin": 1253,
+          "xmax": 388,
+          "ymax": 1293
+        },
+        {
+          "text": "is",
+          "xmin": 415,
+          "ymin": 1255,
+          "xmax": 446,
+          "ymax": 1291
+        },
+        {
+          "text": "called",
+          "xmin": 471,
+          "ymin": 1253,
+          "xmax": 607,
+          "ymax": 1293
+        },
+        {
+          "text": "a",
+          "xmin": 632,
+          "ymin": 1263,
+          "xmax": 653,
+          "ymax": 1290
+        },
+        {
+          "text": "wallaboo",
+          "xmin": 680,
+          "ymin": 1253,
+          "xmax": 893,
+          "ymax": 1293
+        },
+        {
+          "text": "But",
+          "xmin": 254,
+          "ymin": 1305,
+          "xmax": 335,
+          "ymax": 1342
+        },
+        {
+          "text": "I",
+          "xmin": 356,
+          "ymin": 1305,
+          "xmax": 368,
+          "ymax": 1338
+        },
+        {
+          "text": "gave",
+          "xmin": 394,
+          "ymin": 1313,
+          "xmax": 510,
+          "ymax": 1352
+        },
+        {
+          "text": "buns",
+          "xmin": 534,
+          "ymin": 1303,
+          "xmax": 648,
+          "ymax": 1342
+        },
+        {
+          "text": "to",
+          "xmin": 669,
+          "ymin": 1306,
+          "xmax": 713,
+          "ymax": 1342
+        },
+        {
+          "text": "the",
+          "xmin": 736,
+          "ymin": 1304,
+          "xmax": 814,
+          "ymax": 1343
+        },
+        {
+          "text": "when",
+          "xmin": 252,
+          "ymin": 1343,
+          "xmax": 380,
+          "ymax": 1393
+        },
+        {
+          "text": "elephant",
+          "xmin": 829,
+          "ymin": 1289,
+          "xmax": 1050,
+          "ymax": 1351
+        },
+        {
+          "text": "T",
+          "xmin": 403,
+          "ymin": 1352,
+          "xmax": 417,
+          "ymax": 1387
+        },
+        {
+          "text": "went",
+          "xmin": 442,
+          "ymin": 1356,
+          "xmax": 561,
+          "ymax": 1393
+        },
+        {
+          "text": "down",
+          "xmin": 581,
+          "ymin": 1353,
+          "xmax": 710,
+          "ymax": 1393
+        },
+        {
+          "text": "to",
+          "xmin": 732,
+          "ymin": 1356,
+          "xmax": 777,
+          "ymax": 1393
+        },
+        {
+          "text": "the",
+          "xmin": 799,
+          "ymin": 1353,
+          "xmax": 878,
+          "ymax": 1393
+        },
+        {
+          "text": "Zoo!",
+          "xmin": 899,
+          "ymin": 1347,
+          "xmax": 1000,
+          "ymax": 1393
+        },
+        {
+          "text": "If",
+          "xmin": 252,
+          "ymin": 1453,
+          "xmax": 290,
+          "ymax": 1492
+        },
+        {
+          "text": "you",
+          "xmin": 307,
+          "ymin": 1463,
+          "xmax": 393,
+          "ymax": 1499
+        },
+        {
+          "text": "try",
+          "xmin": 416,
+          "ymin": 1456,
+          "xmax": 483,
+          "ymax": 1499
+        },
+        {
+          "text": "to",
+          "xmin": 504,
+          "ymin": 1456,
+          "xmax": 550,
+          "ymax": 1493
+        },
+        {
+          "text": "talk",
+          "xmin": 572,
+          "ymin": 1453,
+          "xmax": 661,
+          "ymax": 1491
+        },
+        {
+          "text": "to",
+          "xmin": 682,
+          "ymin": 1456,
+          "xmax": 728,
+          "ymax": 1493
+        },
+        {
+          "text": "the",
+          "xmin": 751,
+          "ymin": 1453,
+          "xmax": 828,
+          "ymax": 1493
+        },
+        {
+          "text": "bison",
+          "xmin": 851,
+          "ymin": 1453,
+          "xmax": 976,
+          "ymax": 1493
+        },
+        {
+          "text": "|",
+          "xmin": 985,
+          "ymin": 1484,
+          "xmax": 989,
+          "ymax": 1494
+        },
+        {
+          "text": "he",
+          "xmin": 254,
+          "ymin": 1503,
+          "xmax": 310,
+          "ymax": 1543
+        },
+        {
+          "text": "never",
+          "xmin": 333,
+          "ymin": 1500,
+          "xmax": 470,
+          "ymax": 1543
+        },
+        {
+          "text": "quite",
+          "xmin": 490,
+          "ymin": 1505,
+          "xmax": 612,
+          "ymax": 1549
+        },
+        {
+          "text": "understands",
+          "xmin": 635,
+          "ymin": 1503,
+          "xmax": 940,
+          "ymax": 1543
+        },
+        {
+          "text": "=",
+          "xmin": 949,
+          "ymin": 1515,
+          "xmax": 955,
+          "ymax": 1543
+        },
+        {
+          "text": "You",
+          "xmin": 250,
+          "ymin": 1555,
+          "xmax": 338,
+          "ymax": 1593
+        },
+        {
+          "text": "can'",
+          "xmin": 362,
+          "ymin": 1553,
+          "xmax": 456,
+          "ymax": 1593
+        },
+        {
+          "text": "'t",
+          "xmin": 442,
+          "ymin": 1542,
+          "xmax": 480,
+          "ymax": 1593
+        },
+        {
+          "text": "shake",
+          "xmin": 500,
+          "ymin": 1544,
+          "xmax": 644,
+          "ymax": 1592
+        },
+        {
+          "text": "hands",
+          "xmin": 667,
+          "ymin": 1553,
+          "xmax": 811,
+          "ymax": 1592
+        },
+        {
+          "text": "wi",
+          "xmin": 833,
+          "ymin": 1555,
+          "xmax": 878,
+          "ymax": 1591
+        },
+        {
+          "text": "with",
+          "xmin": 868,
+          "ymin": 1553,
+          "xmax": 932,
+          "ymax": 1592
+        },
+        {
+          "text": "a",
+          "xmin": 956,
+          "ymin": 1563,
+          "xmax": 976,
+          "ymax": 1589
+        },
+        {
+          "text": "mi",
+          "xmin": 1005,
+          "ymin": 1556,
+          "xmax": 1056,
+          "ymax": 1591
+        },
+        {
+          "text": "ingo",
+          "xmin": 1054,
+          "ymin": 1556,
+          "xmax": 1154,
+          "ymax": 1600
+        },
+        {
+          "text": "he",
+          "xmin": 254,
+          "ymin": 1604,
+          "xmax": 310,
+          "ymax": 1643
+        },
+        {
+          "text": "doesn't",
+          "xmin": 331,
+          "ymin": 1603,
+          "xmax": 509,
+          "ymax": 1643
+        },
+        {
+          "text": "like",
+          "xmin": 532,
+          "ymin": 1592,
+          "xmax": 615,
+          "ymax": 1643
+        },
+        {
+          "text": "shaking",
+          "xmin": 627,
+          "ymin": 1590,
+          "xmax": 821,
+          "ymax": 1652
+        },
+        {
+          "text": "hands",
+          "xmin": 848,
+          "ymin": 1603,
+          "xmax": 999,
+          "ymax": 1643
+        },
+        {
+          "text": "And",
+          "xmin": 251,
+          "ymin": 1653,
+          "xmax": 341,
+          "ymax": 1692
+        },
+        {
+          "text": "lions",
+          "xmin": 368,
+          "ymin": 1653,
+          "xmax": 478,
+          "ymax": 1692
+        },
+        {
+          "text": "and",
+          "xmin": 499,
+          "ymin": 1653,
+          "xmax": 584,
+          "ymax": 1692
+        },
+        {
+          "text": "saying",
+          "xmin": 381,
+          "ymin": 1705,
+          "xmax": 535,
+          "ymax": 1749
+        },
+        {
+          "text": "\"How",
+          "xmin": 579,
+          "ymin": 1703,
+          "xmax": 703,
+          "ymax": 1743
+        },
+        {
+          "text": "Toaring",
+          "xmin": 604,
+          "ymin": 1655,
+          "xmax": 784,
+          "ymax": 1743
+        },
+        {
+          "text": "tigers",
+          "xmin": 801,
+          "ymin": 1650,
+          "xmax": 942,
+          "ymax": 1700
+        },
+        {
+          "text": "hate",
+          "xmin": 254,
+          "ymin": 1703,
+          "xmax": 359,
+          "ymax": 1741
+        },
+        {
+          "text": ",",
+          "xmin": 546,
+          "ymin": 1735,
+          "xmax": 552,
+          "ymax": 1745
+        },
+        {
+          "text": "you",
+          "xmin": 805,
+          "ymin": 1713,
+          "xmax": 891,
+          "ymax": 1749
+        },
+        {
+          "text": "do?\"",
+          "xmin": 915,
+          "ymin": 1703,
+          "xmax": 1016,
+          "ymax": 1743
+        },
+        {
+          "text": "|",
+          "xmin": 1046,
+          "ymin": 1723,
+          "xmax": 1057,
+          "ymax": 1725
+        },
+        {
+          "text": "But",
+          "xmin": 254,
+          "ymin": 1755,
+          "xmax": 335,
+          "ymax": 1793
+        },
+        {
+          "text": "I",
+          "xmin": 355,
+          "ymin": 1755,
+          "xmax": 370,
+          "ymax": 1788
+        },
+        {
+          "text": "give",
+          "xmin": 394,
+          "ymin": 1750,
+          "xmax": 494,
+          "ymax": 1801
+        },
+        {
+          "text": "buns",
+          "xmin": 515,
+          "ymin": 1750,
+          "xmax": 630,
+          "ymax": 1793
+        },
+        {
+          "text": "to",
+          "xmin": 652,
+          "ymin": 1756,
+          "xmax": 697,
+          "ymax": 1793
+        },
+        {
+          "text": "the",
+          "xmin": 720,
+          "ymin": 1753,
+          "xmax": 798,
+          "ymax": 1793
+        },
+        {
+          "text": "Delephant",
+          "xmin": 814,
+          "ymin": 1742,
+          "xmax": 1034,
+          "ymax": 1800
+        },
+        {
+          "text": "when",
+          "xmin": 252,
+          "ymin": 1804,
+          "xmax": 380,
+          "ymax": 1842
+        },
+        {
+          "text": "T",
+          "xmin": 403,
+          "ymin": 1802,
+          "xmax": 418,
+          "ymax": 1837
+        },
+        {
+          "text": "go",
+          "xmin": 442,
+          "ymin": 1813,
+          "xmax": 498,
+          "ymax": 1850
+        },
+        {
+          "text": "down",
+          "xmin": 522,
+          "ymin": 1804,
+          "xmax": 648,
+          "ymax": 1842
+        },
+        {
+          "text": "to",
+          "xmin": 671,
+          "ymin": 1806,
+          "xmax": 715,
+          "ymax": 1842
+        },
+        {
+          "text": "the",
+          "xmin": 739,
+          "ymin": 1804,
+          "xmax": 816,
+          "ymax": 1842
+        },
+        {
+          "text": "Zoo",
+          "xmin": 839,
+          "ymin": 1799,
+          "xmax": 937,
+          "ymax": 1842
+        },
+        {
+          "text": "|",
+          "xmin": 937,
+          "ymin": 1809,
+          "xmax": 938,
+          "ymax": 1824
+        },
+        {
+          "text": "A.A.",
+          "xmin": 251,
+          "ymin": 1905,
+          "xmax": 347,
+          "ymax": 1941
+        },
+        {
+          "text": "Milne",
+          "xmin": 376,
+          "ymin": 1903,
+          "xmax": 500,
+          "ymax": 1942
+        },
+        {
+          "text": "www",
+          "xmin": 64,
+          "ymin": 3210,
+          "xmax": 142,
+          "ymax": 3226
+        },
+        {
+          "text": ".PoemHunter.",
+          "xmin": 140,
+          "ymin": 3204,
+          "xmax": 368,
+          "ymax": 3229
+        },
+        {
+          "text": ".com",
+          "xmin": 362,
+          "ymin": 3209,
+          "xmax": 441,
+          "ymax": 3228
+        },
+        {
+          "text": "The",
+          "xmin": 483,
+          "ymin": 3203,
+          "xmax": 541,
+          "ymax": 3228
+        },
+        {
+          "text": "World's",
+          "xmin": 558,
+          "ymin": 3203,
+          "xmax": 678,
+          "ymax": 3228
+        },
+        {
+          "text": "Poetry",
+          "xmin": 694,
+          "ymin": 3204,
+          "xmax": 798,
+          "ymax": 3233
+        },
+        {
+          "text": "Archive",
+          "xmin": 811,
+          "ymin": 3203,
+          "xmax": 930,
+          "ymax": 3229
+        },
+        {
+          "text": "2",
+          "xmin": 2469,
+          "ymin": 3203,
+          "xmax": 2480,
+          "ymax": 3222
+        }
+      ],
+      "raw_text": "At the Zoo There are lions and roaring and enormous camels and things tigers | | There are biffalo-buffalo-bi isons | and a There' great big bear wi with wi 's sort of ings. a a tiny potamus | and a tiny nosserus too | But T gave buns to the elephant when T went down to the Zoo There are badgers and Super-in-tendent' bidgers and bodgers | and a 's House | There are masses of goats | and a Polar | and different kinds of mouse And thi ink | T there's a sort of a somethi ing which is called a wallaboo But I gave buns to the when elephant T went down to the Zoo! If you try to talk to the bison | he never quite understands = You can' 't shake hands wi with a mi ingo he doesn't like shaking hands And lions and saying \"How Toaring tigers hate , you do?\" | But I give buns to the Delephant when T go down to the Zoo | A.A. Milne www .PoemHunter. .com The World's Poetry Archive 2 "
+    },
+    {
+      "page": 1,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/9fa95c5e-4f4e-408b-ae28-282cc95c4caa-2.jpeg?ik-s=460ac5c9e3858a362acce07403cc703212d1735f&ik-t=1739683945",
+      "size": {
+        "width": 2550,
+        "height": 3300
+      },
+      "words": [
+        {
+          "text": "Brownie",
+          "xmin": 254,
+          "ymin": 428,
+          "xmax": 478,
+          "ymax": 468
+        },
+        {
+          "text": "In",
+          "xmin": 252,
+          "ymin": 555,
+          "xmax": 298,
+          "ymax": 591
+        },
+        {
+          "text": "a",
+          "xmin": 322,
+          "ymin": 563,
+          "xmax": 344,
+          "ymax": 589
+        },
+        {
+          "text": "corner",
+          "xmin": 370,
+          "ymin": 563,
+          "xmax": 527,
+          "ymax": 593
+        },
+        {
+          "text": "of",
+          "xmin": 547,
+          "ymin": 553,
+          "xmax": 594,
+          "ymax": 591
+        },
+        {
+          "text": "the",
+          "xmin": 612,
+          "ymin": 553,
+          "xmax": 689,
+          "ymax": 591
+        },
+        {
+          "text": "bedroom",
+          "xmin": 713,
+          "ymin": 553,
+          "xmax": 927,
+          "ymax": 593
+        },
+        {
+          "text": "is",
+          "xmin": 954,
+          "ymin": 556,
+          "xmax": 985,
+          "ymax": 590
+        },
+        {
+          "text": "a",
+          "xmin": 1009,
+          "ymin": 563,
+          "xmax": 1030,
+          "ymax": 591
+        },
+        {
+          "text": "don'",
+          "xmin": 1028,
+          "ymin": 598,
+          "xmax": 1125,
+          "ymax": 643
+        },
+        {
+          "text": "great",
+          "xmin": 1056,
+          "ymin": 556,
+          "xmax": 1186,
+          "ymax": 602
+        },
+        {
+          "text": "big",
+          "xmin": 1208,
+          "ymin": 553,
+          "xmax": 1275,
+          "ymax": 602
+        },
+        {
+          "text": "curtai",
+          "xmin": 1299,
+          "ymin": 556,
+          "xmax": 1433,
+          "ymax": 593
+        },
+        {
+          "text": "in",
+          "xmin": 1430,
+          "ymin": 556,
+          "xmax": 1468,
+          "ymax": 591
+        },
+        {
+          "text": "|",
+          "xmin": 1476,
+          "ymin": 585,
+          "xmax": 1481,
+          "ymax": 594
+        },
+        {
+          "text": "Someone",
+          "xmin": 252,
+          "ymin": 604,
+          "xmax": 483,
+          "ymax": 643
+        },
+        {
+          "text": "lives",
+          "xmin": 506,
+          "ymin": 604,
+          "xmax": 612,
+          "ymax": 643
+        },
+        {
+          "text": "behind",
+          "xmin": 636,
+          "ymin": 603,
+          "xmax": 796,
+          "ymax": 643
+        },
+        {
+          "text": "it,",
+          "xmin": 823,
+          "ymin": 605,
+          "xmax": 865,
+          "ymax": 650
+        },
+        {
+          "text": "but",
+          "xmin": 892,
+          "ymin": 603,
+          "xmax": 970,
+          "ymax": 643
+        },
+        {
+          "text": "I",
+          "xmin": 991,
+          "ymin": 605,
+          "xmax": 1006,
+          "ymax": 638
+        },
+        {
+          "text": "'t",
+          "xmin": 1124,
+          "ymin": 604,
+          "xmax": 1151,
+          "ymax": 638
+        },
+        {
+          "text": "know",
+          "xmin": 1174,
+          "ymin": 594,
+          "xmax": 1299,
+          "ymax": 643
+        },
+        {
+          "text": "who",
+          "xmin": 1322,
+          "ymin": 603,
+          "xmax": 1419,
+          "ymax": 643
+        },
+        {
+          "text": "%",
+          "xmin": 1430,
+          "ymin": 614,
+          "xmax": 1435,
+          "ymax": 644
+        },
+        {
+          "text": "T",
+          "xmin": 252,
+          "ymin": 655,
+          "xmax": 267,
+          "ymax": 687
+        },
+        {
+          "text": "thi",
+          "xmin": 290,
+          "ymin": 653,
+          "xmax": 347,
+          "ymax": 692
+        },
+        {
+          "text": "ink",
+          "xmin": 344,
+          "ymin": 653,
+          "xmax": 414,
+          "ymax": 692
+        },
+        {
+          "text": "it",
+          "xmin": 436,
+          "ymin": 655,
+          "xmax": 464,
+          "ymax": 691
+        },
+        {
+          "text": "is",
+          "xmin": 487,
+          "ymin": 655,
+          "xmax": 521,
+          "ymax": 691
+        },
+        {
+          "text": "a",
+          "xmin": 543,
+          "ymin": 663,
+          "xmax": 563,
+          "ymax": 689
+        },
+        {
+          "text": "Brownie",
+          "xmin": 592,
+          "ymin": 655,
+          "xmax": 788,
+          "ymax": 693
+        },
+        {
+          "text": "|",
+          "xmin": 795,
+          "ymin": 684,
+          "xmax": 800,
+          "ymax": 695
+        },
+        {
+          "text": "but",
+          "xmin": 829,
+          "ymin": 647,
+          "xmax": 906,
+          "ymax": 692
+        },
+        {
+          "text": "I'm",
+          "xmin": 927,
+          "ymin": 653,
+          "xmax": 1004,
+          "ymax": 692
+        },
+        {
+          "text": "not",
+          "xmin": 1030,
+          "ymin": 656,
+          "xmax": 1107,
+          "ymax": 692
+        },
+        {
+          "text": "'t",
+          "xmin": 514,
+          "ymin": 691,
+          "xmax": 565,
+          "ymax": 743
+        },
+        {
+          "text": "quite",
+          "xmin": 1127,
+          "ymin": 655,
+          "xmax": 1249,
+          "ymax": 698
+        },
+        {
+          "text": "certain",
+          "xmin": 1271,
+          "ymin": 649,
+          "xmax": 1437,
+          "ymax": 692
+        },
+        {
+          "text": "(",
+          "xmin": 254,
+          "ymin": 704,
+          "xmax": 265,
+          "ymax": 740
+        },
+        {
+          "text": "Nanny",
+          "xmin": 269,
+          "ymin": 703,
+          "xmax": 430,
+          "ymax": 749
+        },
+        {
+          "text": "isn'",
+          "xmin": 454,
+          "ymin": 703,
+          "xmax": 530,
+          "ymax": 743
+        },
+        {
+          "text": "certain",
+          "xmin": 574,
+          "ymin": 705,
+          "xmax": 741,
+          "ymax": 743
+        },
+        {
+          "text": "1",
+          "xmin": 749,
+          "ymin": 734,
+          "xmax": 754,
+          "ymax": 744
+        },
+        {
+          "text": "too",
+          "xmin": 781,
+          "ymin": 696,
+          "xmax": 870,
+          "ymax": 743
+        },
+        {
+          "text": ")",
+          "xmin": 866,
+          "ymin": 703,
+          "xmax": 896,
+          "ymax": 744
+        },
+        {
+          "text": "I",
+          "xmin": 253,
+          "ymin": 805,
+          "xmax": 268,
+          "ymax": 839
+        },
+        {
+          "text": "looked",
+          "xmin": 293,
+          "ymin": 803,
+          "xmax": 448,
+          "ymax": 843
+        },
+        {
+          "text": "behind",
+          "xmin": 475,
+          "ymin": 803,
+          "xmax": 635,
+          "ymax": 842
+        },
+        {
+          "text": "the",
+          "xmin": 659,
+          "ymin": 804,
+          "xmax": 737,
+          "ymax": 843
+        },
+        {
+          "text": "curtain",
+          "xmin": 758,
+          "ymin": 805,
+          "xmax": 924,
+          "ymax": 843
+        },
+        {
+          "text": "|",
+          "xmin": 935,
+          "ymin": 835,
+          "xmax": 940,
+          "ymax": 844
+        },
+        {
+          "text": "but",
+          "xmin": 969,
+          "ymin": 804,
+          "xmax": 1047,
+          "ymax": 842
+        },
+        {
+          "text": "he",
+          "xmin": 1069,
+          "ymin": 803,
+          "xmax": 1125,
+          "ymax": 843
+        },
+        {
+          "text": "went",
+          "xmin": 1146,
+          "ymin": 806,
+          "xmax": 1266,
+          "ymax": 842
+        },
+        {
+          "text": "SO",
+          "xmin": 1286,
+          "ymin": 813,
+          "xmax": 1337,
+          "ymax": 843
+        },
+        {
+          "text": "quickly",
+          "xmin": 1360,
+          "ymin": 804,
+          "xmax": 1531,
+          "ymax": 851
+        },
+        {
+          "text": "They",
+          "xmin": 250,
+          "ymin": 889,
+          "xmax": 370,
+          "ymax": 952
+        },
+        {
+          "text": "Brownies",
+          "xmin": 254,
+          "ymin": 855,
+          "xmax": 476,
+          "ymax": 893
+        },
+        {
+          "text": "never",
+          "xmin": 499,
+          "ymin": 863,
+          "xmax": 637,
+          "ymax": 893
+        },
+        {
+          "text": "wait",
+          "xmin": 657,
+          "ymin": 855,
+          "xmax": 758,
+          "ymax": 893
+        },
+        {
+          "text": "to",
+          "xmin": 778,
+          "ymin": 856,
+          "xmax": 823,
+          "ymax": 893
+        },
+        {
+          "text": "say",
+          "xmin": 846,
+          "ymin": 863,
+          "xmax": 928,
+          "ymax": 903
+        },
+        {
+          "text": "|",
+          "xmin": 935,
+          "ymin": 884,
+          "xmax": 941,
+          "ymax": 894
+        },
+        {
+          "text": "'How",
+          "xmin": 974,
+          "ymin": 853,
+          "xmax": 1092,
+          "ymax": 893
+        },
+        {
+          "text": "do",
+          "xmin": 1118,
+          "ymin": 853,
+          "xmax": 1173,
+          "ymax": 893
+        },
+        {
+          "text": "wriggle",
+          "xmin": 391,
+          "ymin": 903,
+          "xmax": 568,
+          "ymax": 950
+        },
+        {
+          "text": "at",
+          "xmin": 673,
+          "ymin": 906,
+          "xmax": 720,
+          "ymax": 942
+        },
+        {
+          "text": "once",
+          "xmin": 741,
+          "ymin": 913,
+          "xmax": 854,
+          "ymax": 942
+        },
+        {
+          "text": "they're",
+          "xmin": 1097,
+          "ymin": 896,
+          "xmax": 1268,
+          "ymax": 951
+        },
+        {
+          "text": "you",
+          "xmin": 1195,
+          "ymin": 863,
+          "xmax": 1280,
+          "ymax": 902
+        },
+        {
+          "text": "do?\"",
+          "xmin": 1305,
+          "ymin": 849,
+          "xmax": 1410,
+          "ymax": 892
+        },
+        {
+          "text": "off",
+          "xmin": 590,
+          "ymin": 903,
+          "xmax": 655,
+          "ymax": 943
+        },
+        {
+          "text": "because",
+          "xmin": 878,
+          "ymin": 897,
+          "xmax": 1076,
+          "ymax": 942
+        },
+        {
+          "text": "all",
+          "xmin": 1290,
+          "ymin": 903,
+          "xmax": 1342,
+          "ymax": 941
+        },
+        {
+          "text": "so",
+          "xmin": 1365,
+          "ymin": 913,
+          "xmax": 1416,
+          "ymax": 942
+        },
+        {
+          "text": "(Nanny",
+          "xmin": 260,
+          "ymin": 941,
+          "xmax": 431,
+          "ymax": 1002
+        },
+        {
+          "text": "tickly",
+          "xmin": 1439,
+          "ymin": 904,
+          "xmax": 1568,
+          "ymax": 951
+        },
+        {
+          "text": "(",
+          "xmin": 254,
+          "ymin": 953,
+          "xmax": 265,
+          "ymax": 990
+        },
+        {
+          "text": "says",
+          "xmin": 452,
+          "ymin": 951,
+          "xmax": 560,
+          "ymax": 999
+        },
+        {
+          "text": "they're",
+          "xmin": 580,
+          "ymin": 953,
+          "xmax": 753,
+          "ymax": 1000
+        },
+        {
+          "text": "tickly",
+          "xmin": 774,
+          "ymin": 941,
+          "xmax": 903,
+          "ymax": 1000
+        },
+        {
+          "text": "too",
+          "xmin": 923,
+          "ymin": 956,
+          "xmax": 1011,
+          "ymax": 993
+        },
+        {
+          "text": ")",
+          "xmin": 1008,
+          "ymin": 953,
+          "xmax": 1035,
+          "ymax": 994
+        },
+        {
+          "text": "A.",
+          "xmin": 251,
+          "ymin": 1055,
+          "xmax": 296,
+          "ymax": 1090
+        },
+        {
+          "text": "A.",
+          "xmin": 290,
+          "ymin": 1055,
+          "xmax": 348,
+          "ymax": 1090
+        },
+        {
+          "text": "Mi",
+          "xmin": 376,
+          "ymin": 1055,
+          "xmax": 419,
+          "ymax": 1089
+        },
+        {
+          "text": "ilne",
+          "xmin": 409,
+          "ymin": 1053,
+          "xmax": 501,
+          "ymax": 1092
+        },
+        {
+          "text": "www",
+          "xmin": 64,
+          "ymin": 3210,
+          "xmax": 142,
+          "ymax": 3226
+        },
+        {
+          "text": "PoemHunter.",
+          "xmin": 147,
+          "ymin": 3204,
+          "xmax": 368,
+          "ymax": 3229
+        },
+        {
+          "text": ".com",
+          "xmin": 362,
+          "ymin": 3209,
+          "xmax": 441,
+          "ymax": 3228
+        },
+        {
+          "text": "|",
+          "xmin": 458,
+          "ymin": 3216,
+          "xmax": 469,
+          "ymax": 3219
+        },
+        {
+          "text": "The",
+          "xmin": 483,
+          "ymin": 3203,
+          "xmax": 541,
+          "ymax": 3228
+        },
+        {
+          "text": "World's",
+          "xmin": 558,
+          "ymin": 3203,
+          "xmax": 678,
+          "ymax": 3228
+        },
+        {
+          "text": "Poetry",
+          "xmin": 694,
+          "ymin": 3204,
+          "xmax": 798,
+          "ymax": 3233
+        },
+        {
+          "text": "Archive",
+          "xmin": 811,
+          "ymin": 3203,
+          "xmax": 931,
+          "ymax": 3229
+        },
+        {
+          "text": "3",
+          "xmin": 2468,
+          "ymin": 3203,
+          "xmax": 2480,
+          "ymax": 3225
+        }
+      ],
+      "raw_text": "Brownie In a corner of the bedroom is a don' great big curtai in | Someone lives behind it, but I 't know who % T thi ink it is a Brownie | but I'm not 't quite certain ( Nanny isn' certain 1 too ) I looked behind the curtain | but he went SO quickly They Brownies never wait to say | 'How do wriggle at once they're you do?\" off because all so (Nanny tickly ( says they're tickly too ) A. A. Mi ilne www PoemHunter. .com | The World's Poetry Archive 3 "
+    },
+    {
+      "page": 2,
+      "image_url": "https://images.nanonets.com/tr:rt-0/uploadedfiles/rawocr/9fa95c5e-4f4e-408b-ae28-282cc95c4caa-3.jpeg?ik-s=ac1efd385af5c2815f28e29f5e5afb60ad2d2685&ik-t=1739683945",
+      "size": {
+        "width": 2550,
+        "height": 3300
+      },
+      "words": [
+        {
+          "text": "Buckingham",
+          "xmin": 254,
+          "ymin": 428,
+          "xmax": 589,
+          "ymax": 475
+        },
+        {
+          "text": "Palace",
+          "xmin": 617,
+          "ymin": 428,
+          "xmax": 794,
+          "ymax": 468
+        },
+        {
+          "text": "They're",
+          "xmin": 250,
+          "ymin": 553,
+          "xmax": 433,
+          "ymax": 599
+        },
+        {
+          "text": "Christopher",
+          "xmin": 252,
+          "ymin": 595,
+          "xmax": 540,
+          "ymax": 648
+        },
+        {
+          "text": "changing",
+          "xmin": 456,
+          "ymin": 553,
+          "xmax": 675,
+          "ymax": 603
+        },
+        {
+          "text": "guard",
+          "xmin": 700,
+          "ymin": 553,
+          "xmax": 838,
+          "ymax": 600
+        },
+        {
+          "text": "at",
+          "xmin": 863,
+          "ymin": 556,
+          "xmax": 910,
+          "ymax": 591
+        },
+        {
+          "text": "Robin",
+          "xmin": 563,
+          "ymin": 595,
+          "xmax": 695,
+          "ymax": 643
+        },
+        {
+          "text": "Buckingham",
+          "xmin": 932,
+          "ymin": 553,
+          "xmax": 1231,
+          "ymax": 599
+        },
+        {
+          "text": "Palace",
+          "xmin": 1259,
+          "ymin": 553,
+          "xmax": 1411,
+          "ymax": 593
+        },
+        {
+          "text": "went",
+          "xmin": 714,
+          "ymin": 598,
+          "xmax": 839,
+          "ymax": 643
+        },
+        {
+          "text": "down",
+          "xmin": 859,
+          "ymin": 603,
+          "xmax": 986,
+          "ymax": 643
+        },
+        {
+          "text": "wi",
+          "xmin": 1011,
+          "ymin": 605,
+          "xmax": 1056,
+          "ymax": 640
+        },
+        {
+          "text": "with",
+          "xmin": 1046,
+          "ymin": 598,
+          "xmax": 1110,
+          "ymax": 640
+        },
+        {
+          "text": "Alice",
+          "xmin": 1133,
+          "ymin": 604,
+          "xmax": 1248,
+          "ymax": 643
+        },
+        {
+          "text": "\"A",
+          "xmin": 251,
+          "ymin": 678,
+          "xmax": 308,
+          "ymax": 742
+        },
+        {
+          "text": "Alice",
+          "xmin": 251,
+          "ymin": 653,
+          "xmax": 365,
+          "ymax": 692
+        },
+        {
+          "text": "is",
+          "xmin": 389,
+          "ymin": 655,
+          "xmax": 420,
+          "ymax": 691
+        },
+        {
+          "text": "marrying",
+          "xmin": 445,
+          "ymin": 655,
+          "xmax": 664,
+          "ymax": 704
+        },
+        {
+          "text": "one",
+          "xmin": 689,
+          "ymin": 663,
+          "xmax": 777,
+          "ymax": 693
+        },
+        {
+          "text": "of",
+          "xmin": 798,
+          "ymin": 653,
+          "xmax": 845,
+          "ymax": 693
+        },
+        {
+          "text": "the",
+          "xmin": 863,
+          "ymin": 653,
+          "xmax": 941,
+          "ymax": 692
+        },
+        {
+          "text": "life",
+          "xmin": 551,
+          "ymin": 696,
+          "xmax": 620,
+          "ymax": 741
+        },
+        {
+          "text": "guard",
+          "xmin": 962,
+          "ymin": 653,
+          "xmax": 1100,
+          "ymax": 701
+        },
+        {
+          "text": "soldier's",
+          "xmin": 327,
+          "ymin": 703,
+          "xmax": 527,
+          "ymax": 741
+        },
+        {
+          "text": "is",
+          "xmin": 644,
+          "ymin": 702,
+          "xmax": 675,
+          "ymax": 740
+        },
+        {
+          "text": "terrible",
+          "xmin": 698,
+          "ymin": 703,
+          "xmax": 875,
+          "ymax": 741
+        },
+        {
+          "text": "hard",
+          "xmin": 899,
+          "ymin": 695,
+          "xmax": 1003,
+          "ymax": 743
+        },
+        {
+          "text": "|",
+          "xmin": 1014,
+          "ymin": 734,
+          "xmax": 1019,
+          "ymax": 744
+        },
+        {
+          "text": "Says",
+          "xmin": 902,
+          "ymin": 746,
+          "xmax": 1018,
+          "ymax": 800
+        },
+        {
+          "text": "Alice",
+          "xmin": 1038,
+          "ymin": 753,
+          "xmax": 1152,
+          "ymax": 793
+        },
+        {
+          "text": "They're",
+          "xmin": 250,
+          "ymin": 853,
+          "xmax": 434,
+          "ymax": 903
+        },
+        {
+          "text": "Christopher",
+          "xmin": 252,
+          "ymin": 893,
+          "xmax": 541,
+          "ymax": 951
+        },
+        {
+          "text": "changing",
+          "xmin": 456,
+          "ymin": 853,
+          "xmax": 675,
+          "ymax": 902
+        },
+        {
+          "text": "Robin",
+          "xmin": 563,
+          "ymin": 894,
+          "xmax": 695,
+          "ymax": 942
+        },
+        {
+          "text": "guard",
+          "xmin": 700,
+          "ymin": 853,
+          "xmax": 838,
+          "ymax": 902
+        },
+        {
+          "text": "at",
+          "xmin": 863,
+          "ymin": 856,
+          "xmax": 910,
+          "ymax": 893
+        },
+        {
+          "text": "went",
+          "xmin": 714,
+          "ymin": 897,
+          "xmax": 839,
+          "ymax": 942
+        },
+        {
+          "text": "Buckingham",
+          "xmin": 932,
+          "ymin": 853,
+          "xmax": 1231,
+          "ymax": 902
+        },
+        {
+          "text": "Palace",
+          "xmin": 1259,
+          "ymin": 853,
+          "xmax": 1411,
+          "ymax": 893
+        },
+        {
+          "text": "down",
+          "xmin": 859,
+          "ymin": 904,
+          "xmax": 986,
+          "ymax": 942
+        },
+        {
+          "text": "wi",
+          "xmin": 1011,
+          "ymin": 905,
+          "xmax": 1056,
+          "ymax": 942
+        },
+        {
+          "text": "with",
+          "xmin": 1046,
+          "ymin": 897,
+          "xmax": 1110,
+          "ymax": 942
+        },
+        {
+          "text": "Alice",
+          "xmin": 1133,
+          "ymin": 904,
+          "xmax": 1246,
+          "ymax": 942
+        },
+        {
+          "text": "We",
+          "xmin": 252,
+          "ymin": 955,
+          "xmax": 326,
+          "ymax": 993
+        },
+        {
+          "text": "saw",
+          "xmin": 349,
+          "ymin": 951,
+          "xmax": 439,
+          "ymax": 993
+        },
+        {
+          "text": "a",
+          "xmin": 463,
+          "ymin": 963,
+          "xmax": 483,
+          "ymax": 991
+        },
+        {
+          "text": "guard",
+          "xmin": 512,
+          "ymin": 953,
+          "xmax": 649,
+          "ymax": 1002
+        },
+        {
+          "text": "in",
+          "xmin": 675,
+          "ymin": 956,
+          "xmax": 711,
+          "ymax": 990
+        },
+        {
+          "text": "a",
+          "xmin": 736,
+          "ymin": 963,
+          "xmax": 756,
+          "ymax": 991
+        },
+        {
+          "text": "sentry-box",
+          "xmin": 784,
+          "ymin": 953,
+          "xmax": 1051,
+          "ymax": 1004
+        },
+        {
+          "text": "1",
+          "xmin": 253,
+          "ymin": 1003,
+          "xmax": 269,
+          "ymax": 1018
+        },
+        {
+          "text": "\"One",
+          "xmin": 258,
+          "ymin": 1004,
+          "xmax": 372,
+          "ymax": 1043
+        },
+        {
+          "text": "of",
+          "xmin": 394,
+          "ymin": 1003,
+          "xmax": 439,
+          "ymax": 1043
+        },
+        {
+          "text": "the",
+          "xmin": 459,
+          "ymin": 995,
+          "xmax": 536,
+          "ymax": 1043
+        },
+        {
+          "text": "sergeants",
+          "xmin": 557,
+          "ymin": 1006,
+          "xmax": 798,
+          "ymax": 1048
+        },
+        {
+          "text": "looks",
+          "xmin": 822,
+          "ymin": 995,
+          "xmax": 945,
+          "ymax": 1043
+        },
+        {
+          "text": "after",
+          "xmin": 967,
+          "ymin": 1003,
+          "xmax": 1083,
+          "ymax": 1043
+        },
+        {
+          "text": "their",
+          "xmin": 1102,
+          "ymin": 1003,
+          "xmax": 1217,
+          "ymax": 1043
+        },
+        {
+          "text": "socks",
+          "xmin": 1237,
+          "ymin": 1004,
+          "xmax": 1370,
+          "ymax": 1043
+        },
+        {
+          "text": "|",
+          "xmin": 1378,
+          "ymin": 1034,
+          "xmax": 1384,
+          "ymax": 1044
+        },
+        {
+          "text": "Says",
+          "xmin": 901,
+          "ymin": 1054,
+          "xmax": 1017,
+          "ymax": 1102
+        },
+        {
+          "text": "Alice",
+          "xmin": 1038,
+          "ymin": 1053,
+          "xmax": 1159,
+          "ymax": 1092
+        },
+        {
+          "text": "|",
+          "xmin": 1160,
+          "ymin": 1084,
+          "xmax": 1161,
+          "ymax": 1086
+        },
+        {
+          "text": "They're",
+          "xmin": 250,
+          "ymin": 1153,
+          "xmax": 433,
+          "ymax": 1202
+        },
+        {
+          "text": "Christopher",
+          "xmin": 252,
+          "ymin": 1196,
+          "xmax": 540,
+          "ymax": 1249
+        },
+        {
+          "text": "changing",
+          "xmin": 456,
+          "ymin": 1153,
+          "xmax": 675,
+          "ymax": 1203
+        },
+        {
+          "text": "Robin",
+          "xmin": 563,
+          "ymin": 1193,
+          "xmax": 697,
+          "ymax": 1243
+        },
+        {
+          "text": "guard",
+          "xmin": 700,
+          "ymin": 1153,
+          "xmax": 838,
+          "ymax": 1201
+        },
+        {
+          "text": "at",
+          "xmin": 863,
+          "ymin": 1156,
+          "xmax": 910,
+          "ymax": 1192
+        },
+        {
+          "text": "went",
+          "xmin": 714,
+          "ymin": 1198,
+          "xmax": 839,
+          "ymax": 1243
+        },
+        {
+          "text": "Buckingham",
+          "xmin": 932,
+          "ymin": 1153,
+          "xmax": 1231,
+          "ymax": 1202
+        },
+        {
+          "text": "Palace",
+          "xmin": 1259,
+          "ymin": 1153,
+          "xmax": 1411,
+          "ymax": 1192
+        },
+        {
+          "text": "down",
+          "xmin": 859,
+          "ymin": 1203,
+          "xmax": 986,
+          "ymax": 1243
+        },
+        {
+          "text": "with",
+          "xmin": 1011,
+          "ymin": 1198,
+          "xmax": 1110,
+          "ymax": 1241
+        },
+        {
+          "text": "Alice",
+          "xmin": 1133,
+          "ymin": 1204,
+          "xmax": 1248,
+          "ymax": 1241
+        },
+        {
+          "text": "We",
+          "xmin": 252,
+          "ymin": 1255,
+          "xmax": 326,
+          "ymax": 1293
+        },
+        {
+          "text": "looked",
+          "xmin": 351,
+          "ymin": 1245,
+          "xmax": 506,
+          "ymax": 1293
+        },
+        {
+          "text": "for",
+          "xmin": 530,
+          "ymin": 1253,
+          "xmax": 598,
+          "ymax": 1293
+        },
+        {
+          "text": "the",
+          "xmin": 617,
+          "ymin": 1253,
+          "xmax": 695,
+          "ymax": 1293
+        },
+        {
+          "text": "King",
+          "xmin": 718,
+          "ymin": 1255,
+          "xmax": 820,
+          "ymax": 1301
+        },
+        {
+          "text": "|",
+          "xmin": 830,
+          "ymin": 1285,
+          "xmax": 835,
+          "ymax": 1294
+        },
+        {
+          "text": "but",
+          "xmin": 865,
+          "ymin": 1253,
+          "xmax": 943,
+          "ymax": 1293
+        },
+        {
+          "text": "he",
+          "xmin": 965,
+          "ymin": 1253,
+          "xmax": 1021,
+          "ymax": 1293
+        },
+        {
+          "text": "never",
+          "xmin": 1044,
+          "ymin": 1263,
+          "xmax": 1182,
+          "ymax": 1293
+        },
+        {
+          "text": "came",
+          "xmin": 1201,
+          "ymin": 1263,
+          "xmax": 1332,
+          "ymax": 1293
+        },
+        {
+          "text": "I",
+          "xmin": 253,
+          "ymin": 1303,
+          "xmax": 269,
+          "ymax": 1318
+        },
+        {
+          "text": "'Well",
+          "xmin": 259,
+          "ymin": 1303,
+          "xmax": 376,
+          "ymax": 1343
+        },
+        {
+          "text": "|",
+          "xmin": 375,
+          "ymin": 1305,
+          "xmax": 389,
+          "ymax": 1343
+        },
+        {
+          "text": "God",
+          "xmin": 418,
+          "ymin": 1303,
+          "xmax": 509,
+          "ymax": 1342
+        },
+        {
+          "text": "take",
+          "xmin": 535,
+          "ymin": 1303,
+          "xmax": 640,
+          "ymax": 1342
+        },
+        {
+          "text": "care",
+          "xmin": 661,
+          "ymin": 1313,
+          "xmax": 764,
+          "ymax": 1343
+        },
+        {
+          "text": "of",
+          "xmin": 786,
+          "ymin": 1296,
+          "xmax": 834,
+          "ymax": 1342
+        },
+        {
+          "text": "him",
+          "xmin": 853,
+          "ymin": 1304,
+          "xmax": 937,
+          "ymax": 1342
+        },
+        {
+          "text": "|",
+          "xmin": 948,
+          "ymin": 1334,
+          "xmax": 954,
+          "ymax": 1343
+        },
+        {
+          "text": "all",
+          "xmin": 981,
+          "ymin": 1303,
+          "xmax": 1033,
+          "ymax": 1342
+        },
+        {
+          "text": "the",
+          "xmin": 1055,
+          "ymin": 1303,
+          "xmax": 1132,
+          "ymax": 1342
+        },
+        {
+          "text": "same",
+          "xmin": 1155,
+          "ymin": 1313,
+          "xmax": 1284,
+          "ymax": 1343
+        },
+        {
+          "text": "|",
+          "xmin": 1292,
+          "ymin": 1335,
+          "xmax": 1295,
+          "ymax": 1344
+        },
+        {
+          "text": "Says",
+          "xmin": 902,
+          "ymin": 1347,
+          "xmax": 1017,
+          "ymax": 1400
+        },
+        {
+          "text": "Alice",
+          "xmin": 1038,
+          "ymin": 1353,
+          "xmax": 1152,
+          "ymax": 1393
+        },
+        {
+          "text": "|",
+          "xmin": 1160,
+          "ymin": 1385,
+          "xmax": 1161,
+          "ymax": 1388
+        },
+        {
+          "text": "They're",
+          "xmin": 250,
+          "ymin": 1453,
+          "xmax": 434,
+          "ymax": 1501
+        },
+        {
+          "text": "changing",
+          "xmin": 456,
+          "ymin": 1453,
+          "xmax": 675,
+          "ymax": 1500
+        },
+        {
+          "text": "guard",
+          "xmin": 700,
+          "ymin": 1453,
+          "xmax": 838,
+          "ymax": 1500
+        },
+        {
+          "text": "at",
+          "xmin": 863,
+          "ymin": 1456,
+          "xmax": 910,
+          "ymax": 1491
+        },
+        {
+          "text": "Buckingham",
+          "xmin": 932,
+          "ymin": 1453,
+          "xmax": 1231,
+          "ymax": 1499
+        },
+        {
+          "text": "Palace",
+          "xmin": 1259,
+          "ymin": 1453,
+          "xmax": 1411,
+          "ymax": 1493
+        },
+        {
+          "text": "Christopher",
+          "xmin": 252,
+          "ymin": 1495,
+          "xmax": 541,
+          "ymax": 1551
+        },
+        {
+          "text": "Robin",
+          "xmin": 563,
+          "ymin": 1495,
+          "xmax": 695,
+          "ymax": 1543
+        },
+        {
+          "text": "went",
+          "xmin": 714,
+          "ymin": 1497,
+          "xmax": 839,
+          "ymax": 1543
+        },
+        {
+          "text": "down",
+          "xmin": 859,
+          "ymin": 1504,
+          "xmax": 986,
+          "ymax": 1543
+        },
+        {
+          "text": "with",
+          "xmin": 1011,
+          "ymin": 1497,
+          "xmax": 1110,
+          "ymax": 1543
+        },
+        {
+          "text": "Alice",
+          "xmin": 1133,
+          "ymin": 1504,
+          "xmax": 1248,
+          "ymax": 1543
+        },
+        {
+          "text": "|",
+          "xmin": 1256,
+          "ymin": 1534,
+          "xmax": 1259,
+          "ymax": 1535
+        },
+        {
+          "text": "\"I",
+          "xmin": 253,
+          "ymin": 1584,
+          "xmax": 291,
+          "ymax": 1640
+        },
+        {
+          "text": "They've",
+          "xmin": 250,
+          "ymin": 1545,
+          "xmax": 443,
+          "ymax": 1601
+        },
+        {
+          "text": "wouldn'",
+          "xmin": 313,
+          "ymin": 1598,
+          "xmax": 496,
+          "ymax": 1643
+        },
+        {
+          "text": "great",
+          "xmin": 464,
+          "ymin": 1556,
+          "xmax": 593,
+          "ymax": 1601
+        },
+        {
+          "text": "big",
+          "xmin": 615,
+          "ymin": 1553,
+          "xmax": 682,
+          "ymax": 1601
+        },
+        {
+          "text": "parties",
+          "xmin": 709,
+          "ymin": 1542,
+          "xmax": 875,
+          "ymax": 1600
+        },
+        {
+          "text": "inside",
+          "xmin": 898,
+          "ymin": 1553,
+          "xmax": 1037,
+          "ymax": 1592
+        },
+        {
+          "text": "the",
+          "xmin": 1059,
+          "ymin": 1553,
+          "xmax": 1137,
+          "ymax": 1593
+        },
+        {
+          "text": "King",
+          "xmin": 624,
+          "ymin": 1597,
+          "xmax": 726,
+          "ymax": 1649
+        },
+        {
+          "text": "grounds.",
+          "xmin": 1158,
+          "ymin": 1542,
+          "xmax": 1371,
+          "ymax": 1600
+        },
+        {
+          "text": "'t",
+          "xmin": 494,
+          "ymin": 1604,
+          "xmax": 523,
+          "ymax": 1639
+        },
+        {
+          "text": "be",
+          "xmin": 545,
+          "ymin": 1604,
+          "xmax": 600,
+          "ymax": 1643
+        },
+        {
+          "text": "for",
+          "xmin": 750,
+          "ymin": 1603,
+          "xmax": 817,
+          "ymax": 1643
+        },
+        {
+          "text": "a",
+          "xmin": 837,
+          "ymin": 1613,
+          "xmax": 860,
+          "ymax": 1641
+        },
+        {
+          "text": "hundred",
+          "xmin": 887,
+          "ymin": 1603,
+          "xmax": 1086,
+          "ymax": 1643
+        },
+        {
+          "text": "pounds",
+          "xmin": 1112,
+          "ymin": 1594,
+          "xmax": 1288,
+          "ymax": 1649
+        },
+        {
+          "text": "|",
+          "xmin": 1296,
+          "ymin": 1635,
+          "xmax": 1298,
+          "ymax": 1643
+        },
+        {
+          "text": "Says",
+          "xmin": 901,
+          "ymin": 1654,
+          "xmax": 1017,
+          "ymax": 1702
+        },
+        {
+          "text": "Alice",
+          "xmin": 1038,
+          "ymin": 1647,
+          "xmax": 1159,
+          "ymax": 1692
+        },
+        {
+          "text": "|",
+          "xmin": 1159,
+          "ymin": 1684,
+          "xmax": 1161,
+          "ymax": 1687
+        },
+        {
+          "text": "They're",
+          "xmin": 250,
+          "ymin": 1753,
+          "xmax": 433,
+          "ymax": 1802
+        },
+        {
+          "text": "Christopher",
+          "xmin": 252,
+          "ymin": 1796,
+          "xmax": 540,
+          "ymax": 1850
+        },
+        {
+          "text": "changing",
+          "xmin": 456,
+          "ymin": 1753,
+          "xmax": 675,
+          "ymax": 1803
+        },
+        {
+          "text": "Robin",
+          "xmin": 563,
+          "ymin": 1794,
+          "xmax": 695,
+          "ymax": 1842
+        },
+        {
+          "text": "guard",
+          "xmin": 700,
+          "ymin": 1753,
+          "xmax": 838,
+          "ymax": 1801
+        },
+        {
+          "text": "at",
+          "xmin": 863,
+          "ymin": 1756,
+          "xmax": 910,
+          "ymax": 1793
+        },
+        {
+          "text": "Buckingham",
+          "xmin": 932,
+          "ymin": 1753,
+          "xmax": 1231,
+          "ymax": 1802
+        },
+        {
+          "text": "Palace",
+          "xmin": 1259,
+          "ymin": 1753,
+          "xmax": 1411,
+          "ymax": 1793
+        },
+        {
+          "text": "went",
+          "xmin": 714,
+          "ymin": 1799,
+          "xmax": 839,
+          "ymax": 1842
+        },
+        {
+          "text": "down",
+          "xmin": 859,
+          "ymin": 1803,
+          "xmax": 986,
+          "ymax": 1842
+        },
+        {
+          "text": "with",
+          "xmin": 1011,
+          "ymin": 1796,
+          "xmax": 1110,
+          "ymax": 1842
+        },
+        {
+          "text": "Alice",
+          "xmin": 1133,
+          "ymin": 1804,
+          "xmax": 1246,
+          "ymax": 1842
+        },
+        {
+          "text": "A",
+          "xmin": 251,
+          "ymin": 1855,
+          "xmax": 278,
+          "ymax": 1890
+        },
+        {
+          "text": "face",
+          "xmin": 303,
+          "ymin": 1853,
+          "xmax": 403,
+          "ymax": 1893
+        },
+        {
+          "text": "looked",
+          "xmin": 427,
+          "ymin": 1845,
+          "xmax": 581,
+          "ymax": 1893
+        },
+        {
+          "text": "out",
+          "xmin": 607,
+          "ymin": 1856,
+          "xmax": 686,
+          "ymax": 1893
+        },
+        {
+          "text": "|",
+          "xmin": 691,
+          "ymin": 1884,
+          "xmax": 695,
+          "ymax": 1893
+        },
+        {
+          "text": "but",
+          "xmin": 726,
+          "ymin": 1853,
+          "xmax": 803,
+          "ymax": 1893
+        },
+        {
+          "text": "it",
+          "xmin": 826,
+          "ymin": 1855,
+          "xmax": 853,
+          "ymax": 1890
+        },
+        {
+          "text": "wasn'",
+          "xmin": 875,
+          "ymin": 1853,
+          "xmax": 1008,
+          "ymax": 1893
+        },
+        {
+          "text": "'t",
+          "xmin": 1005,
+          "ymin": 1853,
+          "xmax": 1034,
+          "ymax": 1890
+        },
+        {
+          "text": "the",
+          "xmin": 1053,
+          "ymin": 1853,
+          "xmax": 1131,
+          "ymax": 1893
+        },
+        {
+          "text": "King's.",
+          "xmin": 1155,
+          "ymin": 1853,
+          "xmax": 1313,
+          "ymax": 1901
+        },
+        {
+          "text": "%",
+          "xmin": 253,
+          "ymin": 1903,
+          "xmax": 264,
+          "ymax": 1911
+        },
+        {
+          "text": "'He's",
+          "xmin": 263,
+          "ymin": 1903,
+          "xmax": 377,
+          "ymax": 1942
+        },
+        {
+          "text": "much",
+          "xmin": 400,
+          "ymin": 1903,
+          "xmax": 530,
+          "ymax": 1942
+        },
+        {
+          "text": "too",
+          "xmin": 553,
+          "ymin": 1906,
+          "xmax": 628,
+          "ymax": 1942
+        },
+        {
+          "text": "busy",
+          "xmin": 646,
+          "ymin": 1893,
+          "xmax": 767,
+          "ymax": 1952
+        },
+        {
+          "text": "a-signing",
+          "xmin": 788,
+          "ymin": 1905,
+          "xmax": 1012,
+          "ymax": 1950
+        },
+        {
+          "text": "Says",
+          "xmin": 894,
+          "ymin": 1944,
+          "xmax": 1017,
+          "ymax": 2001
+        },
+        {
+          "text": "things,",
+          "xmin": 1036,
+          "ymin": 1903,
+          "xmax": 1202,
+          "ymax": 1954
+        },
+        {
+          "text": "Alice",
+          "xmin": 1038,
+          "ymin": 1949,
+          "xmax": 1151,
+          "ymax": 1991
+        },
+        {
+          "text": "They're",
+          "xmin": 250,
+          "ymin": 2053,
+          "xmax": 434,
+          "ymax": 2101
+        },
+        {
+          "text": "changing",
+          "xmin": 456,
+          "ymin": 2053,
+          "xmax": 675,
+          "ymax": 2102
+        },
+        {
+          "text": "guard",
+          "xmin": 700,
+          "ymin": 2053,
+          "xmax": 838,
+          "ymax": 2101
+        },
+        {
+          "text": "at",
+          "xmin": 863,
+          "ymin": 2056,
+          "xmax": 910,
+          "ymax": 2092
+        },
+        {
+          "text": "Robin",
+          "xmin": 563,
+          "ymin": 2096,
+          "xmax": 697,
+          "ymax": 2143
+        },
+        {
+          "text": "Buckingham",
+          "xmin": 932,
+          "ymin": 2053,
+          "xmax": 1231,
+          "ymax": 2100
+        },
+        {
+          "text": "Palace",
+          "xmin": 1259,
+          "ymin": 2053,
+          "xmax": 1411,
+          "ymax": 2092
+        },
+        {
+          "text": "Christopher",
+          "xmin": 252,
+          "ymin": 2096,
+          "xmax": 541,
+          "ymax": 2149
+        },
+        {
+          "text": "went",
+          "xmin": 714,
+          "ymin": 2098,
+          "xmax": 839,
+          "ymax": 2143
+        },
+        {
+          "text": "down",
+          "xmin": 859,
+          "ymin": 2104,
+          "xmax": 986,
+          "ymax": 2143
+        },
+        {
+          "text": "with",
+          "xmin": 1011,
+          "ymin": 2096,
+          "xmax": 1110,
+          "ymax": 2141
+        },
+        {
+          "text": "Alice",
+          "xmin": 1133,
+          "ymin": 2104,
+          "xmax": 1247,
+          "ymax": 2143
+        },
+        {
+          "text": "%",
+          "xmin": 253,
+          "ymin": 2153,
+          "xmax": 265,
+          "ymax": 2163
+        },
+        {
+          "text": "'Do",
+          "xmin": 259,
+          "ymin": 2153,
+          "xmax": 336,
+          "ymax": 2192
+        },
+        {
+          "text": "you",
+          "xmin": 360,
+          "ymin": 2163,
+          "xmax": 445,
+          "ymax": 2200
+        },
+        {
+          "text": "think",
+          "xmin": 470,
+          "ymin": 2153,
+          "xmax": 594,
+          "ymax": 2192
+        },
+        {
+          "text": "the",
+          "xmin": 614,
+          "ymin": 2153,
+          "xmax": 691,
+          "ymax": 2192
+        },
+        {
+          "text": "King",
+          "xmin": 715,
+          "ymin": 2155,
+          "xmax": 816,
+          "ymax": 2201
+        },
+        {
+          "text": "knows",
+          "xmin": 843,
+          "ymin": 2153,
+          "xmax": 994,
+          "ymax": 2192
+        },
+        {
+          "text": "all",
+          "xmin": 1017,
+          "ymin": 2153,
+          "xmax": 1069,
+          "ymax": 2192
+        },
+        {
+          "text": "about",
+          "xmin": 1092,
+          "ymin": 2153,
+          "xmax": 1232,
+          "ymax": 2192
+        },
+        {
+          "text": "me?\"",
+          "xmin": 1253,
+          "ymin": 2153,
+          "xmax": 1374,
+          "ymax": 2191
+        },
+        {
+          "text": "\"Sure",
+          "xmin": 253,
+          "ymin": 2195,
+          "xmax": 388,
+          "ymax": 2243
+        },
+        {
+          "text": "to",
+          "xmin": 408,
+          "ymin": 2206,
+          "xmax": 462,
+          "ymax": 2246
+        },
+        {
+          "text": "|",
+          "xmin": 462,
+          "ymin": 2235,
+          "xmax": 465,
+          "ymax": 2244
+        },
+        {
+          "text": "dear",
+          "xmin": 496,
+          "ymin": 2204,
+          "xmax": 604,
+          "ymax": 2243
+        },
+        {
+          "text": "|",
+          "xmin": 610,
+          "ymin": 2234,
+          "xmax": 615,
+          "ymax": 2244
+        },
+        {
+          "text": "but",
+          "xmin": 645,
+          "ymin": 2203,
+          "xmax": 723,
+          "ymax": 2241
+        },
+        {
+          "text": "it's",
+          "xmin": 745,
+          "ymin": 2200,
+          "xmax": 809,
+          "ymax": 2240
+        },
+        {
+          "text": "time",
+          "xmin": 832,
+          "ymin": 2205,
+          "xmax": 941,
+          "ymax": 2241
+        },
+        {
+          "text": "for",
+          "xmin": 962,
+          "ymin": 2203,
+          "xmax": 1028,
+          "ymax": 2243
+        },
+        {
+          "text": "tea",
+          "xmin": 1048,
+          "ymin": 2206,
+          "xmax": 1123,
+          "ymax": 2243
+        },
+        {
+          "text": ",",
+          "xmin": 1132,
+          "ymin": 2234,
+          "xmax": 1139,
+          "ymax": 2245
+        },
+        {
+          "text": "Says",
+          "xmin": 901,
+          "ymin": 2254,
+          "xmax": 1017,
+          "ymax": 2299
+        },
+        {
+          "text": "Alice",
+          "xmin": 1038,
+          "ymin": 2246,
+          "xmax": 1160,
+          "ymax": 2293
+        },
+        {
+          "text": "|",
+          "xmin": 1159,
+          "ymin": 2284,
+          "xmax": 1161,
+          "ymax": 2288
+        },
+        {
+          "text": "A.A.",
+          "xmin": 251,
+          "ymin": 2355,
+          "xmax": 348,
+          "ymax": 2390
+        },
+        {
+          "text": "Mi",
+          "xmin": 376,
+          "ymin": 2355,
+          "xmax": 419,
+          "ymax": 2391
+        },
+        {
+          "text": "ilne",
+          "xmin": 409,
+          "ymin": 2353,
+          "xmax": 501,
+          "ymax": 2391
+        },
+        {
+          "text": "www",
+          "xmin": 64,
+          "ymin": 3210,
+          "xmax": 142,
+          "ymax": 3226
+        },
+        {
+          "text": "PoemHunter",
+          "xmin": 147,
+          "ymin": 3204,
+          "xmax": 369,
+          "ymax": 3229
+        },
+        {
+          "text": ".com",
+          "xmin": 362,
+          "ymin": 3209,
+          "xmax": 441,
+          "ymax": 3228
+        },
+        {
+          "text": "The",
+          "xmin": 483,
+          "ymin": 3203,
+          "xmax": 541,
+          "ymax": 3228
+        },
+        {
+          "text": "World's",
+          "xmin": 558,
+          "ymin": 3203,
+          "xmax": 678,
+          "ymax": 3228
+        },
+        {
+          "text": "Poetry",
+          "xmin": 694,
+          "ymin": 3204,
+          "xmax": 798,
+          "ymax": 3233
+        },
+        {
+          "text": "Archive",
+          "xmin": 811,
+          "ymin": 3203,
+          "xmax": 930,
+          "ymax": 3229
+        },
+        {
+          "text": "4",
+          "xmin": 2466,
+          "ymin": 3204,
+          "xmax": 2480,
+          "ymax": 3220
+        }
+      ],
+      "raw_text": "Buckingham Palace They're Christopher changing guard at Robin Buckingham Palace went down wi with Alice \"A Alice is marrying one of the life guard soldier's is terrible hard | Says Alice They're Christopher changing Robin guard at went Buckingham Palace down wi with Alice We saw a guard in a sentry-box 1 \"One of the sergeants looks after their socks | Says Alice | They're Christopher changing Robin guard at went Buckingham Palace down with Alice We looked for the King | but he never came I 'Well | God take care of him | all the same | Says Alice | They're changing guard at Buckingham Palace Christopher Robin went down with Alice | \"I They've wouldn' great big parties inside the King grounds. 't be for a hundred pounds | Says Alice | They're Christopher changing Robin guard at Buckingham Palace went down with Alice A face looked out | but it wasn' 't the King's. % 'He's much too busy a-signing Says things, Alice They're changing guard at Robin Buckingham Palace Christopher went down with Alice % 'Do you think the King knows all about me?\" \"Sure to | dear | but it's time for tea , Says Alice | A.A. Mi ilne www PoemHunter .com The World's Poetry Archive 4 "
+    }
+  ]
+}
