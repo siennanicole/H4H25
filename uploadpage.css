@@ -11,7 +11,7 @@ body {
     font-style: italic; /* Italic for slogan effect */
     font-weight: normal; /* Keep it light */
     color: #764134; /* Change text color */
-    margin-top: -20px; /* Moves it up */
+    margin-top: -30px; /* Moves it up */
     margin-bottom: 5px; /* Adjust space below */
 }
 
@@ -37,7 +37,7 @@ header {
 h2 {
     color: #333;
     font-weight: bold;
-    margin-top: 20px; /* Increases space below slogan */
+    margin-top: 50px; /* Increases space below slogan */
 }
 
 /* Form Styling */
