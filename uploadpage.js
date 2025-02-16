@@ -31,7 +31,13 @@ document.addEventListener("DOMContentLoaded", function() {
         fileContent: reader.result // base64-encoded file content
       };
 
+      // Debug: log the fileData before storing it
+      console.log("Storing file data:", fileData);
+
       sessionStorage.setItem("fileData", JSON.stringify(fileData));
+
+      // Debug: log the sessionStorage contents to verify it was set
+      console.log("sessionStorage fileData:", sessionStorage.getItem("fileData"));
 
       // Redirect to the translation page.
       window.location.href = "translationpage.html";
