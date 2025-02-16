@@ -72,3 +72,7 @@ async function convertTextToSpeech() {
      play.addEventListener("click",playMusic);
 }
 });
+
+document.getElementById("newDocumentButton").addEventListener("click", function () {
+  window.location.href = "uploadpage.html"; 
+});

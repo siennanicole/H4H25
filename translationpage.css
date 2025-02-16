@@ -18,11 +18,27 @@ header {
     top: 0;
     left: 0;
     z-index: 10;
+
 }
 
 header img {
     width: 100px; /* Smaller logo */
     margin-right: 20px;
+}
+
+#newDocumentButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #783e00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 20px; 
+}
+
+#newDocumentButton:hover {
+    background-color: #365C7D;
 }
 
 header button {
