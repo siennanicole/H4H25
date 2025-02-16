@@ -77,10 +77,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener('DOMContentLoaded', function () {
    const text = "thank you for using lex ease";
-   const convertBtn = document.getElementById("textToSpeech");
+   const textToSpeech = document.getElementById("textToSpeech");
 
 
-   convertBtn.addEventListener('click', function () {
+   textToSpeech.addEventListener('click', function () {
        const speechSynth = window.speechSynthesis;
        const enteredText = text;
        const error = document.querySelector('.error-para');
@@ -97,12 +97,12 @@ document.addEventListener('DOMContentLoaded', function () {
                error.textContent = "";
                const newUtter = new SpeechSynthesisUtterance(enteredText);
                speechSynth.speak(newUtter);
-               convertBtn.textContent = "Sound is Playing...";
+               textToSpeech.textContent = "Sound is Playing...";
            }
 
 
            setTimeout(() => {
-               convertBtn.textContent = "Play Converted Sound";
+               textToSpeech.textContent = "Play Converted Sound";
            }, 5000);
        } else {
            console.error("Error element not found!");
