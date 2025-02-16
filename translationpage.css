@@ -51,7 +51,7 @@ main {
 #dyslexic_friendly_text {
     flex-grow: 1;
     background: white;
-    padding: 500px;
+    padding: 10px;
     border-radius: 8px;
     border: 1px solid #ccc;
     height: 400px;
