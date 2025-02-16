@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>File Upload via JavaScript</title>
+</head>
+<body>
+  <h1>Upload File</h1>
+  <!-- File input element -->
+  <input type="file" id="fileInput" />
+  <button id="uploadButton">Upload</button>
+  
+  <h2>Response:</h2>
+  <div id="result"></div>
+  
+  <script>
+    document.getElementById('uploadButton').addEventListener('click', function() {
+      var fileInput = document.getElementById('fileInput');
+      if (!fileInput.files.length) {
+        alert('Please select a file first.');
+        return;
+      }
+      
+      var file = fileInput.files[0];
+      var formData = new FormData();
+      
+      // IGNORE THIS RIGHT HERE, JUST LEAVE IT AS DOCUMENT, IDK WHY BUT IT WORKS
+      formData.append('document', file, file.name);
+      
+      fetch('https://h4h.pythonanywhere.com/', {
+        method: 'POST',
+        body: formData
+      })
+      .then(response => response.text())
+      .then(data => {
+        document.getElementById('result').innerHTML = data;
+      })
+      .catch(error => {
+        console.error('Error:', error);
+        document.getElementById('result').innerHTML = 'An error occurred: ' + error;
+      });
+    });
+  </script>
+</body>
+</html>
