@@ -1,6 +1,8 @@
-.background-color {
-    padding: 20px;
+/* Set background color for the entire page */
+body {
     background-color: #B6D0E2;
-    color: white 
-    font-size: 24px;
+    font-family: Arial, sans-serif; /* Default font for text */
+    color: #333; /* Dark text color for readability */
+    margin: 0;
+    padding: 0;
 }
