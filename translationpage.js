@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
        const selectedText = window.getSelection().toString();
   
        // If no text is selected, use the entire text.
-       const enteredText = selectedText || document.getElementById("dyslexic_friendly_text").innerText;const enteredText = text;
+       const enteredText = selectedText || document.getElementById("dyslexic_friendly_text").innerText;const enteredText = selectedText;
        if (!speechSynth.speaking && enteredText.trim().length) {
       const newUtter = new SpeechSynthesisUtterance(enteredText);
       speechSynth.speak(newUtter);
