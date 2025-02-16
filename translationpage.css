@@ -22,8 +22,9 @@ header {
 }
 
 header img {
-    width: 100px; /* Smaller logo */
-    margin-right: 20px;
+    width: 160px; /* Slightly increase the logo size */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: 50px; /* Align with the white box */
 }
 
 #newDocumentButton {
@@ -65,19 +66,18 @@ main {
 
 /* Document Container */
 #dyslexic_friendly_text {
-    flex-grow: 1;
+    width: 80%;
+    max-width: 900px;
     background: white;
-    /* padding: 100px; */
-    margin-right: 300px;
     border-radius: 8px;
     border: 1px solid #ccc;
     height: 500px;
-    /* width: 100px; */
     overflow-y: auto;
     font-family: 'OpenDyslexic', Arial, sans-serif;
     font-size: 18px;
     color: #333;
-    white-space: pre-wrap; /* Maintain text formatting */
+    white-space: pre-wrap;
+    margin-left: 50px; /* Same as logo */
 }
 
 /* Sidebar Styling */
