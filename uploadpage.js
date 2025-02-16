@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const file = fileInput.files[0]; 
 
         if (!file) {
-            alert("Please upload a PDF file.");
+            alert("Please upload a Document.");
             return;
         }
 
