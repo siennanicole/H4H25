@@ -90,7 +90,7 @@ main {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     position: fixed;
     top: 50%; /* Moves it to 50% of the viewport height */
-    right: 40px; /* Keeps it on the right side */
+    right: 65px; /* Keeps it on the right side */
     transform: translateY(-50%); /* Centers it vertically */
     display: flex;
     flex-direction: column;
