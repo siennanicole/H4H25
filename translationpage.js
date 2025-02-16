@@ -44,4 +44,38 @@ document.addEventListener("DOMContentLoaded", function () {
     console.error('Error:', error);
     document.getElementById('dyslexic_friendly_text').innerHTML = 'An error occurred: ' + error;
   });
+
+  // Function to get selected text
+  function getSelectedText() {
+    const selection = window.getSelection();
+    return selection.toString();
+  }
+
+  // Add event listener to Text-to-Speech button
+  document.getElementById("textToSpeech").addEventListener("click", function () {
+    const selectedText = getSelectedText();
+    if (selectedText) {
+      convertTextToSpeech(selectedText);
+    } else {
+      alert("Please highlight text to read aloud.");
+    }
+});
+
+// Function to send selected text to backend for Text-to-Speech
+async function convertTextToSpeech(text) {
+  try {
+    const response = await fetch("https://h4h.pythonanywhere.com/text-to-speech", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text }),
+    });
+
+    const audioBlob = await response.blob();
+    const audioUrl = URL.createObjectURL(audioBlob);
+    const audio = new Audio(audioUrl);
+    audio.play();
+  } catch (error) {
+    console.error("Error with Text-to-Speech:", error);
+  }
+}
 });
