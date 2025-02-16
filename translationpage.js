@@ -81,7 +81,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener('DOMContentLoaded', function () {
    const text = "enormous camels";
-   const convertBtn = document.getElementById("convertBtn");
+   const convertBtn = document.getElementById("textToSpeech");
 
 
    convertBtn.addEventListener('click', function () {
