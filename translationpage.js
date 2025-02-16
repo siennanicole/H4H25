@@ -76,27 +76,33 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 document.addEventListener('DOMContentLoaded', function () {
-   const text = "thank you for using lex ease";
-   const textToSpeech = document.getElementById("textToSpeech");
+   const text = "hello how are you?";
+   const convertBtn = document.getElementById("textToSpeech");
 
 
-   textToSpeech.addEventListener('click', function () {
+   convertBtn.addEventListener('click', function () {
        const speechSynth = window.speechSynthesis;
        const enteredText = text;
        const error = document.querySelector('.error-para');
+
+
        // Check if the error element exists
        if (error) {
            if (!speechSynth.speaking && !enteredText.trim().length) {
                error.textContent = `Nothing to Convert! Enter text in the text area.`;
            }
+
+
            if (!speechSynth.speaking && enteredText.trim().length) {
                error.textContent = "";
                const newUtter = new SpeechSynthesisUtterance(enteredText);
                speechSynth.speak(newUtter);
-               textToSpeech.textContent = "Sound is Playing...";
+               convertBtn.textContent = "Sound is Playing...";
            }
+
+
            setTimeout(() => {
-               textToSpeech.textContent = "Play Converted Sound";
+               convertBtn.textContent = "Play Converted Sound";
            }, 5000);
        } else {
            console.error("Error element not found!");
