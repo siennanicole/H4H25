@@ -31,12 +31,12 @@ document.addEventListener("DOMContentLoaded", function () {
     .then(response => response.text())
     .then(data => {
       // Put the returned text into a string.
-      let extractedText = data;
-      // Remove leading/trailing whitespace.
-      extractedText = extractedText.trim();
+      let extractedText = data.trim();
       // Update the text container with the cleaned text.
       const textContainer = document.getElementById('dyslexic_friendly_text');
       textContainer.innerText = extractedText;
+      // Force the initial font size to 16px.
+      textContainer.style.fontSize = "16px";
     })
     .catch(error => {
       console.error('Error:', error);
@@ -50,10 +50,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Get the elements for the font selector, font size input, and the text container.
   const fontSelect = document.getElementById("fontSelect");
-  const fontSizeInput = document.getElementById("fontSizeInput"); // Make sure this element exists in your HTML.
+  const fontSizeInput = document.getElementById("fontSizeInput"); // Ensure this exists in your HTML.
   const textContainer = document.getElementById("dyslexic_friendly_text");
 
-  // When the font selection changes, update the text container's font.
+  // When the font selection changes, update the text container's font family.
   fontSelect.addEventListener("change", function () {
     textContainer.style.fontFamily = this.value;
   });
@@ -78,17 +78,14 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
-// the event listener for the text-to-Speech functionality.
 document.addEventListener('DOMContentLoaded', function () {
-   const text = "enormous camels";
+   const text = "hello how are you?";
    const convertBtn = document.getElementById("textToSpeech");
-
 
    convertBtn.addEventListener('click', function () {
        const speechSynth = window.speechSynthesis;
        const enteredText = text;
        const error = document.querySelector('.error-para');
-
 
        // Check if the error element exists
        if (error) {
@@ -96,23 +93,17 @@ document.addEventListener('DOMContentLoaded', function () {
                error.textContent = `Nothing to Convert! Enter text in the text area.`;
            }
 
-
            if (!speechSynth.speaking && enteredText.trim().length) {
                error.textContent = "";
-             // Creating a speech synthesis instance
                const newUtter = new SpeechSynthesisUtterance(enteredText);
-             // Speaking the actual text
                speechSynth.speak(newUtter);
-             // Need to update the button's text
                convertBtn.textContent = "Sound is Playing...";
            }
 
-// Need to reset the button's text after 5 seconds
            setTimeout(() => {
-               convertBtn.textContent = "Play Converted Sound";
+             convertBtn.textContent = "Read Aloud";
            }, 5000);
        } else {
-         // Need to log error if the error's element is not there
            console.error("Error element not found!");
        }
    });
