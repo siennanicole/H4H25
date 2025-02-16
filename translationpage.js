@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function () {
                convertBtn.textContent = "Sound is Playing...";
            }
 
-
+// Need to reset the button's text after 5 seconds.
            setTimeout(() => {
                convertBtn.textContent = "Play Converted Sound";
            }, 5000);
