@@ -10,7 +10,7 @@ top: 10px; /* Ajusts distance from the top */
 left: 10px; /* Adjusts distance from the left */
 }
 .logo {
-width: 80px; /* Adjust this to make the logo smaller */
+width: 60px; /* Adjust this to make the logo smaller */
 height: auto; /* Maintains aspect ratio */
 }
 
