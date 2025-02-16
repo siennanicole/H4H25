@@ -75,9 +75,12 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
-const text = "Thank you for using Lex Ease";
+document.addEventListener('DOMContentLoaded', function () {
+   const text = "thank you for using lex ease";
+   const convertBtn = document.getElementById("textToSpeech");
 
-convertBtn.addEventListener('click', function () {
+
+   convertBtn.addEventListener('click', function () {
        const speechSynth = window.speechSynthesis;
        const enteredText = text;
        const error = document.querySelector('.error-para');
@@ -105,4 +108,4 @@ convertBtn.addEventListener('click', function () {
            console.error("Error element not found!");
        }
    });
-
+});
