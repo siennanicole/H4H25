@@ -99,7 +99,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
            if (!speechSynth.speaking && enteredText.trim().length) {
                error.textContent = "";
+             // Creating a speech synthesis instance
                const newUtter = new SpeechSynthesisUtterance(enteredText);
+             // Speaking the actual text
                speechSynth.speak(newUtter);
              // Need to update the button's text
                convertBtn.textContent = "Sound is Playing...";
