@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // Function to send selected text to backend for Text-to-Speech
-async function convertTextToSpeech() {
+/*async function convertTextToSpeech() {
   
     let play = document.getElementById("play");
       function playMusic(){
@@ -70,7 +70,7 @@ async function convertTextToSpeech() {
         audio.play()
       }
      play.addEventListener("click",playMusic);
-}
+}*/
 });
 
 document.getElementById("newDocumentButton").addEventListener("click", function () {
@@ -116,5 +116,17 @@ document.addEventListener("DOMContentLoaded", function () {
   // Function to update text color
   textColorInput.addEventListener("input", function () {
       textContainer.style.color = textColorInput.value;
+  });
+});
+
+document.addEventListener("DOMContentLoaded", function() {
+  // Get the elements for the font selector and the text container
+  let fontSelect = document.getElementById("fontSelect");
+  let textContainer = document.getElementById("dyslexic_friendly_text");
+
+  // Apply the selected font to the text container
+  fontSelect.addEventListener("change", function() {
+      // Set the fontFamily on the text container
+      textContainer.style.fontFamily = this.value;
   });
 });
