@@ -1,5 +1,54 @@
-<div id="dyslexic_friendly_text"></div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LexEasel Translation Page</title>
+    <link rel="stylesheet" href="uploadpage.css"> 
+</head>
 
+<body>
 
-<script src="translationpage.js"></script>
+    <!-- header section -->
+    <header>
+        <img src="assets/lexEaselogo.png" alt="LexEasel Logo" id="logo">
+        <button id="uploadNewFile">Upload New File</button>
+    </header>
+
+    <main>
+        <!-- document container -->
+        <div id="dyslexic_friendly_text"></div>
+
+        <!-- sidebar -->
+        <aside id="sidebar">
+            <button id="downloadFile">Download</button>
+
+            <div class="controls">
+                <label for="fontSelect">Font:</label>
+                <select id="fontSelect">
+                    <option value="Arial">Arial</option>
+                    <option value="Verdana">Comic Comic-Sans</option>
+                    <option value="Verdana">Verdana</option>
+                </select>
+            </div>
+
+            <div class="controls">
+                <label for="bgColor">Background Color:</label>
+                <input type="color" id="bgColor">
+            </div>
+
+            <div class="controls">
+                <label for="textColor">Text Color:</label>
+                <input type="color" id="textColor">
+            </div>
+
+            <button id="textToSpeech">Read Aloud</button>
+            <button id="defineWord">Define</button>
+        </aside>
+    </main>
+
+    <script src="translationpage.js"></script>\
+</body>
+</html>
+
 
