@@ -9,7 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
   const fileData = JSON.parse(storedFileData);
 
   // Reconstruct the Blob from the Data URL.
-  // The Data URL format: "data:[<mime type>];base64,<data>"
   const parts = fileData.fileContent.split(',');
   const mime = parts[0].match(/:(.*?);/)[1];
   const bstr = atob(parts[1]);
@@ -21,7 +20,6 @@ document.addEventListener("DOMContentLoaded", function () {
   const fileBlob = new Blob([u8arr], { type: mime });
 
   // Create a FormData object and append the file Blob.
-  // The key 'document' must match what your backend expects.
   const formData = new FormData();
   formData.append('document', fileBlob, fileData.fileName);
 
@@ -32,15 +30,26 @@ document.addEventListener("DOMContentLoaded", function () {
   })
     .then(response => response.text())
     .then(data => {
-      // Insert the returned content (extracted text) into the container.
-      document.getElementById('dyslexic_friendly_text').innerHTML = data;
+      // Create a temporary container to parse the returned HTML.
+      let tempDiv = document.createElement('div');
+      tempDiv.innerHTML = data;
+      // Try to extract text from a <pre> element, if present.
+      let extractedText = "";
+      if (tempDiv.querySelector("pre")) {
+        extractedText = tempDiv.querySelector("pre").innerText;
+      } else {
+        extractedText = tempDiv.innerText || data;
+      }
+      // Set the text container's content to the extracted text.
+      const textContainer = document.getElementById('dyslexic_friendly_text');
+      textContainer.innerText = extractedText;
     })
     .catch(error => {
       console.error('Error:', error);
       document.getElementById('dyslexic_friendly_text').innerHTML = 'An error occurred: ' + error;
     });
 
-  // NEW DOCUMENT button: redirect back to upload page.
+  // "New Document" button handler: redirect back to the upload page.
   document.getElementById("newDocumentButton").addEventListener("click", function () {
     window.location.href = "uploadpage.html";
   });
@@ -50,7 +59,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const textContainer = document.getElementById("dyslexic_friendly_text");
 
   // When the font selection changes, update the text container's font.
-  fontSelect.addEventListener("change", function() {
+  fontSelect.addEventListener("change", function () {
     textContainer.style.fontFamily = this.value;
   });
 
@@ -65,6 +74,4 @@ document.addEventListener("DOMContentLoaded", function () {
   textColorInput.addEventListener("input", function () {
     textContainer.style.color = this.value;
   });
-
-  // (Optional) Text-to-Speech and other functionality can be added here.
 });
