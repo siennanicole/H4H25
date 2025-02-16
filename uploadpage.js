@@ -1,45 +1,44 @@
 document.addEventListener("DOMContentLoaded", function() {
+  // Get the form element
+  const form = document.querySelector("form");
+
+  // Handle/listen for form submission
+  form.addEventListener("submit", function(event) {
+    // Prevent default page reload
+    event.preventDefault();
     
-    // get the form element
-    const form = document.querySelector("form");
+    // Get the selected font from the dropdown
+    const selectedFont = document.getElementById("font-select").value;
 
-    // handel/listen for form submission
-    form.addEventListener("submit", function(event) {
-        // prevent default reload the page
-        event.preventDefault();
-        
-        // get the selected font
-        const selectedFont = document.getElementById("font-select").value;
+    // Get the uploaded file 
+    const fileInput = document.getElementById("file-upload");
+    const file = fileInput.files[0]; 
 
-        // get the uploaded file 
-        const fileInput = document.getElementById("file-upload");
-        const file = fileInput.files[0]; 
+    if (!file) {
+      alert("Please upload a PDF file.");
+      return;
+    }
 
-        if (!file) {
-            alert("Please upload a PDF file.");
-            return;
-        }
+    const reader = new FileReader();
+    reader.readAsDataURL(file); // Converts file to a base64 string
 
-        const reader = new FileReader();
-        reader.readAsDataURL(file); // Converts file to a base64 string
+    reader.onload = function() {
+      // Create an object with file details.
+      // NOTE: We store this under the key "fileData". This value is required by the translation page.
+      const fileData = {
+        fileName: file.name,
+        selectedFont: selectedFont,
+        fileContent: reader.result // base64-encoded file content
+      };
 
-        reader.onload = function() {
-            // store file data in sessionStorage
-            const fileData = {
-                fileName: file.name,
-                selectedFont: selectedFont,
-                fileContent: reader.result // base64-encoded file content
-            };
+      sessionStorage.setItem("fileData", JSON.stringify(fileData));
 
-            sessionStorage.setItem("fileData", JSON.stringify(fileData));
+      // Redirect to the translation page.
+      window.location.href = "translationpage.html";
+    };
 
-            // redirect to the translation page
-            window.location.href = "translationpage.html";
-        };
-
-        reader.onerror = function() {
-            alert("Error reading file.");
-        };
-    });
+    reader.onerror = function() {
+      alert("Error reading file.");
+    };
+  });
 });
-
