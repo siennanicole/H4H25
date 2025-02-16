@@ -19,7 +19,7 @@ header {
     font-size: 24px;
 }
 
-instruction-text {
+.instruction-text {
     font-size: 20px; /* Bigger text */
     font-weight: bold; /* Make it stand out */
     color: #333;
