@@ -122,11 +122,18 @@ select, input[type="color"] {
         align-items: center;
     }
 
-    #sidebar {
-        position: relative;
-        width: 100%;
-        top: auto;
-        right: auto;
-        box-shadow: none;
-    }
+   .sidebar {
+    margin-top: 50px /* Adjust the value to move it lower */
 }
+.sidebar {
+    position: absolute;
+    top: 200px; /* Adjust this value to move it lower */
+    right: 20px; /* Keep it aligned to the right */
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+        
+}
+
