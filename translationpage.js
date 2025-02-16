@@ -109,6 +109,7 @@ document.addEventListener('DOMContentLoaded', function () {
                convertBtn.textContent = "Play Converted Sound";
            }, 5000);
        } else {
+         // Need to log error if the error's element is not there.
            console.error("Error element not found!");
        }
    });
