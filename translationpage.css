@@ -12,7 +12,7 @@ header {
     justify-content: flex-start;
     align-items: center;
     padding: 20px;
-    background-color: #fff;
+    background-color: #B6D0E2; /* Now the top is blue */
     position: fixed;
     width: 100%;
     top: 0;
