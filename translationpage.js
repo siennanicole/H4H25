@@ -82,22 +82,24 @@ document.addEventListener('DOMContentLoaded', function () {
 
    textToSpeech.addEventListener('click', function () {
        const speechSynth = window.speechSynthesis;
-       // Get the selected/highlighted text.
-       const selectedText = window.getSelection().toString();
-  
-       // If no text is selected, use the entire text.
-       const enteredText = selectedText || document.getElementById("dyslexic_friendly_text").innerText;const enteredText = text;
-       if (!speechSynth.speaking && enteredText.trim().length) {
-      const newUtter = new SpeechSynthesisUtterance(enteredText);
-      speechSynth.speak(newUtter);
-      textToSpeech.textContent = "Sound is Playing...";
-      } else {
-      // Handle the case when no text is highlighted and nothing to speak.
-      textToSpeech.textContent = "Please highlight some text to convert.";
-      }
-
-    setTimeout(() => {
-      textToSpeech.textContent = "Play Converted Sound";
-      }, 5000);
+       const enteredText = text;
+       const error = document.querySelector('.error-para');
+       // Check if the error element exists
+       if (error) {
+           if (!speechSynth.speaking && !enteredText.trim().length) {
+               error.textContent = `Nothing to Convert! Enter text in the text area.`;
+           }
+           if (!speechSynth.speaking && enteredText.trim().length) {
+               error.textContent = "";
+               const newUtter = new SpeechSynthesisUtterance(enteredText);
+               speechSynth.speak(newUtter);
+               textToSpeech.textContent = "Sound is Playing...";
+           }
+           setTimeout(() => {
+               textToSpeech.textContent = "Play Converted Sound";
+           }, 5000);
+       } else {
+           console.error("Error element not found!");
+       }
    });
 });
