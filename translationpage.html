@@ -25,11 +25,16 @@
         <label for="fontSelect">Font:</label>
         <select id="fontSelect">
           <option value="Arial">Arial</option>
-          <!-- Note: Using standard CSS font-family names -->
+          <!-- Using standard CSS font-family names -->
           <option value="'Comic Sans MS', cursive, sans-serif">Comic Sans</option>
           <option value="Verdana">Verdana</option>
           <option value="'OpenDyslexic', Arial, sans-serif">OpenDyslexic</option>
         </select>
+      </div>
+
+      <div class="controls">
+        <label for="fontSizeInput">Font Size:</label>
+        <input type="number" id="fontSizeInput" min="8" max="72" value="16">
       </div>
 
       <div class="controls">
@@ -44,7 +49,6 @@
 
       <p class="error-para"></p>
       <button id="textToSpeech">Read Aloud</button>
-    
     </aside>
   </main>
 
