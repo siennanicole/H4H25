@@ -7,11 +7,12 @@ body {
     text-align: center;
 }
 .platform-title {
-    font-size: 18px; /* Smaller size for slogan effect */
-    font-style: italic; /* Italic for slogan appearance */
-    font-weight: normal; /* Lighter font weight */
-    color: #444; /* Slightly softer color */
-    margin-bottom: 5px; /* Reduce spacing below */
+    font-size: 18px; /* Keeps it small for a slogan */
+    font-style: italic; /* Italic for slogan effect */
+    font-weight: normal; /* Keep it light */
+    color: #764134; /* Change text color */
+    margin-top: -20px; /* Moves it up */
+    margin-bottom: 5px; /* Adjust space below */
 }
 
 header img {
@@ -35,7 +36,8 @@ header {
 
 h2 {
     color: #333;
-    margin-top: 5px; 
+    font-weight: bold;
+    margin-top: 20px; /* Increases space below slogan */
 }
 
 /* Form Styling */
