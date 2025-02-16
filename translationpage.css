@@ -1,8 +1,130 @@
-/* Set background color for the entire page */
+/* Body Styling */
 body {
-    background-color: #B6D0E2;
-    font-family: Arial, sans-serif; /* Default font for text */
-    color: #333; /* Dark text color for readability */
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #B6D0E2;
+}
+
+/* Header Section */
+header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+
+header img {
+    width: 100px; /* Smaller logo */
+    margin-right: 20px;
+}
+
+header button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+header button:hover {
+    background-color: #003f8f;
+}
+
+/* Main Content Area */
+main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px; /* To avoid overlap with the fixed header */
+    padding: 20px;
+}
+
+/* Document Container */
+#dyslexic_friendly_text {
+    flex-grow: 1;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    height: 600px;
+    overflow-y: auto;
+    font-family: 'OpenDyslexic', Arial, sans-serif;
+    font-size: 18px;
+    color: #333;
+    white-space: pre-wrap; /* Maintain text formatting */
+}
+
+/* Sidebar Styling */
+#sidebar {
+    width: 250px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    position: fixed;
+    top: 80px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Buttons Styling */
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #003f8f;
+}
+
+button:disabled {
+    background-color: #ccc;
+}
+
+/* Input Styling */
+input[type="color"] {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+select, input[type="color"] {
+    font-size: 14px;
+}
+
+/* Adjustments for smaller screens */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #sidebar {
+        position: relative;
+        width: 100%;
+        top: auto;
+        right: auto;
+        box-shadow: none;
+    }
 }
