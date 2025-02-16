@@ -101,15 +101,16 @@ document.addEventListener('DOMContentLoaded', function () {
                error.textContent = "";
                const newUtter = new SpeechSynthesisUtterance(enteredText);
                speechSynth.speak(newUtter);
+             // Need to update the button's text
                convertBtn.textContent = "Sound is Playing...";
            }
 
-// Need to reset the button's text after 5 seconds.
+// Need to reset the button's text after 5 seconds
            setTimeout(() => {
                convertBtn.textContent = "Play Converted Sound";
            }, 5000);
        } else {
-         // Need to log error if the error's element is not there.
+         // Need to log error if the error's element is not there
            console.error("Error element not found!");
        }
    });
