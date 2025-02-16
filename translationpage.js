@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const storedFileData = sessionStorage.getItem("fileData");
   if (!storedFileData) {
     console.error("No file data found in sessionStorage.");
-    document.getElementById('dyslexic_friendly_text').innerHTML = "Error: No file provided.";
+    document.getElementById('dyslexic_friendly_text').innerText = "Error: No file provided.";
     return;
   }
   const fileData = JSON.parse(storedFileData);
@@ -30,26 +30,25 @@ document.addEventListener("DOMContentLoaded", function () {
   })
     .then(response => response.text())
     .then(data => {
-      // Create a temporary container to parse the returned HTML.
-      let tempDiv = document.createElement('div');
-      tempDiv.innerHTML = data;
-      // Try to extract text from a <pre> element, if present.
-      let extractedText = "";
-      if (tempDiv.querySelector("pre")) {
-        extractedText = tempDiv.querySelector("pre").innerText;
-      } else {
-        extractedText = tempDiv.innerText || data;
-      }
-      // Set the text container's content to the extracted text.
+      // Put the returned text into a string.
+      let extractedText = data;
+      // Option 1: Remove all leading/trailing whitespace from the whole string.
+      extractedText = extractedText.trim();
+      
+      // Option 2 (alternative): Remove leading whitespace from each line.
+      // Uncomment the following line if you want to remove leading spaces on every line.
+      // extractedText = extractedText.split('\n').map(line => line.trimStart()).join('\n');
+      
+      // Update the text container with the cleaned text.
       const textContainer = document.getElementById('dyslexic_friendly_text');
       textContainer.innerText = extractedText;
     })
     .catch(error => {
       console.error('Error:', error);
-      document.getElementById('dyslexic_friendly_text').innerHTML = 'An error occurred: ' + error;
+      document.getElementById('dyslexic_friendly_text').innerText = 'An error occurred: ' + error;
     });
 
-  // "New Document" button handler: redirect back to the upload page.
+  // "New Document" button: redirect to upload page.
   document.getElementById("newDocumentButton").addEventListener("click", function () {
     window.location.href = "uploadpage.html";
   });
