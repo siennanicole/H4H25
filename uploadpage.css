@@ -6,6 +6,11 @@ body {
     padding: 0;
     text-align: center;
 }
+/* Increase the size of the Lex Ease logo */
+header img {
+    width: 350px; /* Increase from 200px */
+    height: auto; /* Maintain aspect ratio */
+}
 
 header {
     padding: 20px;
