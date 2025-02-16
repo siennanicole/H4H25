@@ -68,14 +68,14 @@ main {
 #dyslexic_friendly_text {
     width: 80%;
     max-width: 900px;
-    background: white;
+    /*background: white;*/
     border-radius: 8px;
     border: 1px solid #ccc;
     height: 750px;
     overflow-y: auto;
     font-family: 'OpenDyslexic', Arial, sans-serif;
     font-size: 18px;
-    color: #333;
+    /*color: #333;*/
     white-space: pre-wrap;
     margin-left: 50px; /* Same as logo */
 }
