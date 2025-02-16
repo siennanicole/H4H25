@@ -78,7 +78,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 
-
+// the event listener for the text-to-Speech functionality.
 document.addEventListener('DOMContentLoaded', function () {
    const text = "enormous camels";
    const convertBtn = document.getElementById("textToSpeech");
