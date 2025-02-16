@@ -66,7 +66,7 @@ main {
 
 /* Document Container */
 #dyslexic_friendly_text {
-    width: 60%;
+    width: 65%;
     max-width: 1100px;
     height: 650px;
     background: white;
@@ -77,7 +77,7 @@ main {
     font-size: 18px;
     color: #333;
     white-space: pre-wrap;
-    margin-left: 45px; /* Moves it slightly right */
+    margin-left: 47px; /* Moves it slightly right */
     margin-right: 0; /* Ensures growth is on the right */
 }
 
